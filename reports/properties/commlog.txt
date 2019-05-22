@@ -1,0 +1,556 @@
+Version =20
+VersionRequired =20
+Checksum =1344882193
+Begin Report
+    LayoutForPrint = NotDefault
+    FilterOn = NotDefault
+    AllowDesignChanges = NotDefault
+    DefaultView =0
+    TabularFamily =0
+    DateGrouping =1
+    GrpKeepTogether =1
+    PictureAlignment =2
+    DatasheetGridlinesBehavior =3
+    GridX =24
+    GridY =24
+    Width =14340
+    DatasheetFontHeight =10
+    ItemSuffix =21
+    Left =270
+    Top =600
+    Right =10500
+    Bottom =8535
+    DatasheetGridlinesColor =12632256
+    Filter ="Expr2 >= #07/01/2015# AND Expr2 <= #07/31/2015#"
+    RecSrcDt = Begin
+        0xec3dd124145de440
+    End
+    GUID = Begin
+        0x85b1bb36f2032348a599e7965bb715a9
+    End
+    RecordSource ="SearchLog"
+    Caption ="commlog"
+    DatasheetFontName ="Arial"
+    PrtMip = Begin
+        0x680100006801000068010000680100000000000003380000df01000001000000 ,
+        0x010000006801000000000000a10700000100000001000000
+    End
+    PrtDevMode = Begin
+        0x41646f6265205044460081030e000000090400000104030101000000c8667833 ,
+        0x010400069c00b40553ef800102000100ea0a6f08640001000f00b00402000100 ,
+        0xb004030000004c657474657200000000000000007920ca2f443e8b3502000000 ,
+        0x0000000000000000000000000000000000000000010000000000000001000000 ,
+        0x0200000001000000000000000000000000000000000000000000000050524956 ,
+        0xe220000000000000000000000000000000000000000000000000000000000000 ,
+        0x0000000000000000000000000000000000000000000000000000000000000000 ,
+        0x0000000000000000000000000000000000000000180000000000102710271027 ,
+        0x000010270000000000000000b000840300000000000000000000000000000000 ,
+        0x00000000000000000300000000000000300210005c4b03006843040000000000 ,
+        0x00000000000000000000000000000000000000000000000046469ff205000000 ,
+        0x04000000ff00ff00000000000000000000000000000000000000000000000000 ,
+        0x0000000000000000000000000000000000000000000000000000000000000000 ,
+        0x0000000000000000000000000000000000000000000000000000000000000000 ,
+        0x0000000000000000000000000000000000000000000000000000000000000000 ,
+        0x0000000000000000000000000000000000000000000000000000000000000000 ,
+        0x0000000000000000000000000000000000000000000000000000000000000000 ,
+        0x0000000000000000000000000000000000000000000000000000000000000000 ,
+        0x0000000000000000000000000000000000000000000000000000000000000000 ,
+        0x0000000000000000000000000000000000000000000000000000000000000000 ,
+        0x0000000000000000000000000000000000000000000000000000000000000000 ,
+        0x0000000000000000000000000000000000000000000000000000000000000000 ,
+        0x0000000000000000000000000000000000000000000000000000000000000000 ,
+        0x0000000000000000000000000000000000000000000000000000000000000000 ,
+        0x0000000000000000000000000000000000000000000000000000000000000000 ,
+        0x0000000000000000000000000000000000000000000000000000000000000000 ,
+        0x0000000000000000000000000000000000000000000000000000000000000000 ,
+        0x01000000000000000000000000000000b0000000534d544a000000001000a000 ,
+        0x410064006f00620065002000500044004600200043006f006e00760065007200 ,
+        0x74006500720000005265736f6c7574696f6e0031323030647069005061676553 ,
+        0x697a65004c65747465720050616765526567696f6e00004c656164696e674564 ,
+        0x67650000496e707574536c6f74002a557365466f726d547261795461626c6500 ,
+        0x0000000000000000000000000000000000000000000000000000000000000000 ,
+        0x3002000045424441000001000100000000000000010000000100000000000000 ,
+        0x5300740061006e00640061007200640000000000000000000000000000000000 ,
+        0x0000000000000000000000000000000000000000000000000000000000000000 ,
+        0x0000000000000000000000000000000000000000000000000000000000000000 ,
+        0x0000000000000000000000000000000000000000000000000000000000000000 ,
+        0x0000000000000000000000000000000000000000000000000000000000000000 ,
+        0x0000000000000000000000000000000000000000000000000000000000000000 ,
+        0x0000000000000000000000000000000000000000000000000000000000000000 ,
+        0x0000000000000000000000000000000000000000000000000000000000000000 ,
+        0x0000000000000000000000000000000000000000000000000000000000000000 ,
+        0x0000000000000000000000000000000000000000000000000000000000000000 ,
+        0x0000000000000000000000000000000000000000000000000000000000000000 ,
+        0x0000000000000000000000000000000000000000000000000000000000000000 ,
+        0x0000000000000000000000000000000000000000000000000000000000000000 ,
+        0x0000000000000000000000000000000000000000000000000000000000000000 ,
+        0x0000000000000000000000000000000000000000000000000000000000000000 ,
+        0x0000000000000000000000000000000000000000000000000000000000000000 ,
+        0x00000000000000000000000001000000
+    End
+    PrtDevNames = Begin
+        0x080011001b00000077696e73706f6f6c0041646f62652050444600446f63756d ,
+        0x656e74735c2a2e7064660000000000000000000000000000000000
+    End
+    OnLoad ="[Event Procedure]"
+    FilterOnLoad =255
+    DatasheetGridlinesColor12 =12632256
+    PrtDevModeW = Begin
+        0x410064006f006200650020005000440046000000000000000000000000000000 ,
+        0x0000000000000000000000000000000000000000000000000000000000000000 ,
+        0x01040006dc00b40553ef800102000100ea0a6f08640001000f00b00402000100 ,
+        0xb004030000004c00650074007400650072000000000000000000000000000000 ,
+        0x0000000000000000000000000000000000000000000000000000000000000000 ,
+        0x0000000000000000000000000000000000000000010000000000000001000000 ,
+        0x0200000001000000000000000000000000000000000000000000000050524956 ,
+        0xe220000000000000000000000000000000000000000000000000000000000000 ,
+        0x0000000000000000000000000000000000000000000000000000000000000000 ,
+        0x0000000000000000000000000000000000000000180000000000102710271027 ,
+        0x000010270000000000000000b000840300000000000000000000000000000000 ,
+        0x00000000000000000300000000000000300210005c4b03006843040000000000 ,
+        0x00000000000000000000000000000000000000000000000046469ff205000000 ,
+        0x04000000ff00ff00000000000000000000000000000000000000000000000000 ,
+        0x0000000000000000000000000000000000000000000000000000000000000000 ,
+        0x0000000000000000000000000000000000000000000000000000000000000000 ,
+        0x0000000000000000000000000000000000000000000000000000000000000000 ,
+        0x0000000000000000000000000000000000000000000000000000000000000000 ,
+        0x0000000000000000000000000000000000000000000000000000000000000000 ,
+        0x0000000000000000000000000000000000000000000000000000000000000000 ,
+        0x0000000000000000000000000000000000000000000000000000000000000000 ,
+        0x0000000000000000000000000000000000000000000000000000000000000000 ,
+        0x0000000000000000000000000000000000000000000000000000000000000000 ,
+        0x0000000000000000000000000000000000000000000000000000000000000000 ,
+        0x0000000000000000000000000000000000000000000000000000000000000000 ,
+        0x0000000000000000000000000000000000000000000000000000000000000000 ,
+        0x0000000000000000000000000000000000000000000000000000000000000000 ,
+        0x0000000000000000000000000000000000000000000000000000000000000000 ,
+        0x0000000000000000000000000000000000000000000000000000000000000000 ,
+        0x01000000000000000000000000000000b0000000534d544a000000001000a000 ,
+        0x410064006f00620065002000500044004600200043006f006e00760065007200 ,
+        0x74006500720000005265736f6c7574696f6e0031323030647069005061676553 ,
+        0x697a65004c65747465720050616765526567696f6e00004c656164696e674564 ,
+        0x67650000496e707574536c6f74002a557365466f726d547261795461626c6500 ,
+        0x0000000000000000000000000000000000000000000000000000000000000000 ,
+        0x3002000045424441000001000100000000000000010000000100000000000000 ,
+        0x5300740061006e00640061007200640000000000000000000000000000000000 ,
+        0x0000000000000000000000000000000000000000000000000000000000000000 ,
+        0x0000000000000000000000000000000000000000000000000000000000000000 ,
+        0x0000000000000000000000000000000000000000000000000000000000000000 ,
+        0x0000000000000000000000000000000000000000000000000000000000000000 ,
+        0x0000000000000000000000000000000000000000000000000000000000000000 ,
+        0x0000000000000000000000000000000000000000000000000000000000000000 ,
+        0x0000000000000000000000000000000000000000000000000000000000000000 ,
+        0x0000000000000000000000000000000000000000000000000000000000000000 ,
+        0x0000000000000000000000000000000000000000000000000000000000000000 ,
+        0x0000000000000000000000000000000000000000000000000000000000000000 ,
+        0x0000000000000000000000000000000000000000000000000000000000000000 ,
+        0x0000000000000000000000000000000000000000000000000000000000000000 ,
+        0x0000000000000000000000000000000000000000000000000000000000000000 ,
+        0x0000000000000000000000000000000000000000000000000000000000000000 ,
+        0x0000000000000000000000000000000000000000000000000000000000000000 ,
+        0x00000000000000000000000001000000
+    End
+    PrtDevNamesW = Begin
+        0x04000d0017000000770069006e00730070006f006f006c000000410064006f00 ,
+        0x620065002000500044004600000044006f00630075006d0065006e0074007300 ,
+        0x5c002a002e007000640066000000000000000000000000000000000000000000 ,
+        0x0000000000000000000000000000
+    End
+    NoSaveCTIWhenDisabled =1
+    Begin
+        Begin Label
+            BackStyle =0
+            TextAlign =1
+            TextFontFamily =18
+            FontSize =9
+            FontWeight =700
+            FontName ="Times New Roman"
+        End
+        Begin Rectangle
+            BackStyle =0
+            BorderLineStyle =0
+        End
+        Begin Line
+            BorderLineStyle =0
+        End
+        Begin Image
+            OldBorderStyle =0
+            BorderLineStyle =0
+            PictureAlignment =2
+        End
+        Begin CheckBox
+            BorderLineStyle =0
+            LabelX =230
+            LabelY =-30
+        End
+        Begin TextBox
+            FELineBreak = NotDefault
+            OldBorderStyle =0
+            TextFontFamily =18
+            BorderLineStyle =0
+            BackStyle =0
+            FontName ="Times New Roman"
+            AsianLineBreak =255
+        End
+        Begin ListBox
+            TextFontFamily =18
+            OldBorderStyle =0
+            BorderLineStyle =0
+            FontName ="Times New Roman"
+        End
+        Begin ComboBox
+            OldBorderStyle =0
+            TextFontFamily =18
+            BorderLineStyle =0
+            BackStyle =0
+            FontName ="Times New Roman"
+        End
+        Begin Subform
+            OldBorderStyle =0
+            BorderLineStyle =0
+        End
+        Begin BreakLevel
+            ControlSource ="Date1"
+        End
+        Begin BreakLevel
+            ControlSource ="Time1"
+        End
+        Begin FormHeader
+            KeepTogether = NotDefault
+            Height =780
+            Name ="ReportHeader"
+            GUID = Begin
+                0x12374556735b6448aaca78d022f46257
+            End
+            Begin
+                Begin Label
+                    BackStyle =1
+                    Left =60
+                    Top =60
+                    Width =5100
+                    Height =600
+                    FontSize =24
+                    FontWeight =400
+                    Name ="Label14"
+                    Caption ="Communications Log"
+                    GUID = Begin
+                        0xb960370bac71ca41ae6581e45bee659e
+                    End
+                End
+            End
+        End
+        Begin PageHeader
+            Height =360
+            Name ="PageHeaderSection"
+            GUID = Begin
+                0xdf5e9298ed3c314baf3ad2e4a3257e70
+            End
+            Begin
+                Begin Label
+                    Left =60
+                    Top =60
+                    Width =900
+                    Height =270
+                    FontSize =10
+                    Name ="Date_Label"
+                    Caption ="Date"
+                    Tag ="DetachedLabel"
+                    GUID = Begin
+                        0x8bdfecfbe1f6054e90519451fcdb51e4
+                    End
+                End
+                Begin Label
+                    Left =1080
+                    Top =60
+                    Width =720
+                    Height =270
+                    FontSize =10
+                    Name ="Time_Label"
+                    Caption ="Time"
+                    Tag ="DetachedLabel"
+                    GUID = Begin
+                        0x5a12212f5c4c8a4faab6d01ef0747fb5
+                    End
+                End
+                Begin Label
+                    Left =1920
+                    Top =60
+                    Width =1080
+                    Height =270
+                    FontSize =10
+                    Name ="UnitCalled_Label"
+                    Caption ="UnitCalled"
+                    Tag ="DetachedLabel"
+                    GUID = Begin
+                        0x6bc13255401fa9438e91906939329718
+                    End
+                End
+                Begin Label
+                    Left =3120
+                    Top =60
+                    Width =1080
+                    Height =270
+                    FontSize =10
+                    Name ="SourceCall_Label"
+                    Caption ="SourceCall"
+                    Tag ="DetachedLabel"
+                    GUID = Begin
+                        0x97172fbc0aca344d90c5124246bf9cb0
+                    End
+                End
+                Begin Label
+                    Left =4320
+                    Top =60
+                    Width =900
+                    Height =270
+                    FontSize =10
+                    Name ="Reason_Label"
+                    Caption ="Reason"
+                    Tag ="DetachedLabel"
+                    GUID = Begin
+                        0x76b71630df326e41b302e14b6d95dfe0
+                    End
+                End
+                Begin Label
+                    Left =5340
+                    Top =60
+                    Width =7920
+                    Height =270
+                    FontSize =10
+                    Name ="Narrative_Label"
+                    Caption ="Narrative"
+                    Tag ="DetachedLabel"
+                    GUID = Begin
+                        0x9901c8f51d89d24f9a6b07cd59be6707
+                    End
+                    LayoutCachedLeft =5340
+                    LayoutCachedTop =60
+                    LayoutCachedWidth =13260
+                    LayoutCachedHeight =330
+                End
+                Begin Label
+                    Left =13320
+                    Top =60
+                    Width =1020
+                    Height =270
+                    FontSize =10
+                    Name ="Dispatcher_Label"
+                    Caption ="Dispatcher"
+                    Tag ="DetachedLabel"
+                    GUID = Begin
+                        0x22361549d3db254992cb7db8c1e89234
+                    End
+                    LayoutCachedLeft =13320
+                    LayoutCachedTop =60
+                    LayoutCachedWidth =14340
+                    LayoutCachedHeight =330
+                End
+                Begin Line
+                    BorderWidth =2
+                    Top =330
+                    Width =14340
+                    Height =30
+                    Name ="Line17"
+                    GUID = Begin
+                        0x3e1e7f252169ab408e8bbf59145d3270
+                    End
+                    LayoutCachedTop =330
+                    LayoutCachedWidth =14340
+                    LayoutCachedHeight =360
+                End
+            End
+        End
+        Begin Section
+            KeepTogether = NotDefault
+            CanGrow = NotDefault
+            Height =480
+            Name ="Detail"
+            GUID = Begin
+                0xee75215581c7b041836659829c24e9ed
+            End
+            Begin
+                Begin TextBox
+                    IMESentenceMode =3
+                    Left =60
+                    Top =60
+                    Width =900
+                    Height =270
+                    Name ="Date"
+                    ControlSource ="Date1"
+                    InputMask ="99/99/0000;0;_"
+                    GUID = Begin
+                        0x219d1eb547ccf642825c25f673073918
+                    End
+
+                End
+                Begin TextBox
+                    IMESentenceMode =3
+                    Left =1080
+                    Top =60
+                    Width =720
+                    Height =270
+                    TabIndex =1
+                    Name ="Time"
+                    ControlSource ="Time1"
+                    InputMask ="00:00;0;_"
+                    GUID = Begin
+                        0x8597d0cff3463f48a4c9dbdced94416c
+                    End
+
+                End
+                Begin TextBox
+                    IMESentenceMode =3
+                    Left =1920
+                    Top =60
+                    Width =1080
+                    Height =270
+                    TabIndex =2
+                    Name ="UnitCalled"
+                    ControlSource ="UnitCalled"
+                    GUID = Begin
+                        0x0311c7fea9589c4d82802a34dad4b71c
+                    End
+
+                End
+                Begin TextBox
+                    IMESentenceMode =3
+                    Left =3120
+                    Top =60
+                    Width =1080
+                    Height =270
+                    TabIndex =3
+                    Name ="SourceCall"
+                    ControlSource ="SourceCall"
+                    GUID = Begin
+                        0x4c36d3cd7de858499ba768c8f4a3aa11
+                    End
+
+                End
+                Begin TextBox
+                    IMESentenceMode =3
+                    Left =4320
+                    Top =60
+                    Width =900
+                    Height =270
+                    TabIndex =4
+                    Name ="Reason"
+                    ControlSource ="Reason"
+                    GUID = Begin
+                        0x93a1e455cb6c4f42ba310c394c3c7fc2
+                    End
+
+                End
+                Begin TextBox
+                    CanGrow = NotDefault
+                    IMESentenceMode =3
+                    Left =5340
+                    Top =60
+                    Width =7920
+                    Height =270
+                    ColumnWidth =4785
+                    TabIndex =5
+                    Name ="Narrative"
+                    ControlSource ="Narrative"
+                    GUID = Begin
+                        0x3242b2a4cbaa2741b9fc747cde48aeac
+                    End
+
+                    LayoutCachedLeft =5340
+                    LayoutCachedTop =60
+                    LayoutCachedWidth =13260
+                    LayoutCachedHeight =330
+                End
+                Begin TextBox
+                    TextAlign =3
+                    IMESentenceMode =3
+                    Left =13320
+                    Top =60
+                    Width =360
+                    Height =270
+                    TabIndex =6
+                    Name ="Dispatcher"
+                    ControlSource ="Dispatcher"
+                    GUID = Begin
+                        0xe6f5c50912af3440957ca9e148ca967f
+                    End
+
+                    LayoutCachedLeft =13320
+                    LayoutCachedTop =60
+                    LayoutCachedWidth =13680
+                    LayoutCachedHeight =330
+                End
+                Begin Line
+                    Top =420
+                    Width =14280
+                    Name ="Line20"
+                    GUID = Begin
+                        0x01677f0d710bd04dbdf6a1f4665301f8
+                    End
+                    LayoutCachedTop =420
+                    LayoutCachedWidth =14280
+                    LayoutCachedHeight =420
+                End
+            End
+        End
+        Begin PageFooter
+            Height =510
+            Name ="PageFooterSection"
+            GUID = Begin
+                0x5a08d75a3aa5f74a9c84a58a06846b6d
+            End
+            Begin
+                Begin TextBox
+                    TextAlign =1
+                    IMESentenceMode =3
+                    Left =60
+                    Top =240
+                    Width =5040
+                    Height =270
+                    Name ="Text15"
+                    ControlSource ="=Now()"
+                    Format ="Long Date"
+                    GUID = Begin
+                        0xb1aeb5b05757d940819f7bf72d31424d
+                    End
+
+                End
+                Begin TextBox
+                    TextAlign =3
+                    IMESentenceMode =3
+                    Left =9300
+                    Top =240
+                    Width =5040
+                    Height =270
+                    TabIndex =1
+                    Name ="Text16"
+                    ControlSource ="=\"Page \" & [Page] & \" of \" & [Pages]"
+                    GUID = Begin
+                        0x943b2fda33e0164ea0ad0ad12899c611
+                    End
+
+                    LayoutCachedLeft =9300
+                    LayoutCachedTop =240
+                    LayoutCachedWidth =14340
+                    LayoutCachedHeight =510
+                End
+                Begin Line
+                    Left =60
+                    Top =240
+                    Width =12840
+                    Name ="Line18"
+                    GUID = Begin
+                        0x5e3a22bcf7283846b4a12f10de1722d7
+                    End
+                End
+            End
+        End
+        Begin FormFooter
+            KeepTogether = NotDefault
+            Height =0
+            Name ="ReportFooter"
+            GUID = Begin
+                0xe009f840d616ac4694558ed7f623a720
+            End
+        End
+    End
+End

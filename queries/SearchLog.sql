@@ -1,0 +1,2 @@
+SELECT commlog.Date1, commlog.Time1, commlog.UnitCalled, commlog.SourceCall, commlog.Reason, commlog.Narrative, commlog.Dispatcher, commlog.id, CDate([Date1] & " " & [Time1]) AS Expr1, CDate([Date1]) AS Expr2, CDate([Time1]) AS Expr3
+FROM commlog

@@ -1,0 +1,4 @@
+SELECT events.ID, events.Active, events.LastDate, events.LastTime, events.EvtDate, events.OutTime, events.ColorCode, events.IgnoreTimer, IIf(IsNull([LastTime]),DateDiff("n",[Expr3],[Expr5]),DateDiff("n",[Expr4],[Expr5])) AS Expr1, CDate([EvtDate] & " " & [OutTime]) AS Expr3, IIf(IsNull([LastTime]),Null,CDate([LastDate] & " " & [LastTime])) AS Expr4, CDate(Date() & " " & Time()) AS Expr5, events.Location, events.[Off], events.Type, DateDiff("h",[Expr4],[Expr5]) AS Expr6, events.OId, parksIDs.pZone
+FROM parksIDs INNER JOIN events ON parksIDs.pId = events.OId
+WHERE (((events.Active)=0) AND ((events.EvtDate)=[Forms]![SearchEvents]![EventDate] Or [Forms]![SearchEvents]![EventDate] Is Null) AND ((events.OId)=[Forms]![SearchEvents]![officerNam] Or [Forms]![SearchEvents]![officerNam] Is Null) AND ((parksIDs.pZone)=[Forms]![SearchEvents]![zone] Or [forms]![SearchEvents]![zone] Is Null))
+ORDER BY events.LastDate DESC

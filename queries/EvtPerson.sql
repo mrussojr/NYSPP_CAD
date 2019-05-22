@@ -1,0 +1,3 @@
+SELECT EventPersonAssoc.EventId, people.LastName, people.FirstName, people.Middle, people.DOB, people.Sex, people.State, people.ID, people.CID, Left([Sex],1) AS Expr1, IIf([Expr1]="M",0,1) AS Expr2, people.Class, people.Expiration, people.EyeColor, people.StreetAddress, people.County, people.Municipality, people.ZipCode, DLookUp("[ParksId]","eyeColors","[Color] = '" & [EyeColor] & "'") AS Expr3, DLookUp("[State]","states","[StateFull] = '" & [State] & "' Or [State] = '" & [State] & "'") AS Expr4
+FROM EventPersonAssoc INNER JOIN people ON EventPersonAssoc.PersonId = people.ID
+WHERE (((EventPersonAssoc.EventId)=[Forms]![ViewEvent]![Text25]))

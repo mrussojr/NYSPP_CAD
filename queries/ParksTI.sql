@@ -1,0 +1,2 @@
+SELECT [PANIC_BOOK_-_TI].ID, [PANIC_BOOK_-_TI].Park, [PANIC_BOOK_-_TI].Region, [PANIC_BOOK_-_TI].ParksID, "P" AS type, [PANIC_BOOK_-_TI].County, [PANIC_BOOK_-_TI].Station
+FROM [PANIC_BOOK_-_TI]

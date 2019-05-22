@@ -1,0 +1,3 @@
+SELECT EventVehicleAssoc.EventId, vehicles.State, vehicles.PlateNumber, vehicles.Type, vehicles.Expiration, vehicles.VehYear, vehicles.VehMake, vehicles.ID, vehicles.VIN, Nz(DLookUp("[ParksID]","makes","[makes] = '" & [VehMake] & "' Or [FullMakes] = '" & [VehMake] & "'"),"") AS Expr1, Nz(DLookUp("[Type]","plateTypes","[TypeNo] = " & [Type]),"") AS Expr2, Nz(DLookUp("[ParksID]","makes","[makes] = '" & [VehMake] & "'"),"") AS Expr3, vehicles.VehStyle, vehicles.VehModel, vehicles.VehColor
+FROM EventVehicleAssoc INNER JOIN vehicles ON EventVehicleAssoc.VehId = vehicles.ID
+WHERE (((EventVehicleAssoc.EventId)=[Forms]![ViewEvent]![Text25]))

@@ -1,0 +1,3 @@
+SELECT [PANIC_BOOK_-_CEN].ID, [PANIC_BOOK_-_CEN].Park, [PANIC_BOOK_-_CEN].Region, [PANIC_BOOK_-_CEN].ParksID, "P" AS type, [PANIC_BOOK_-_CEN].County, [PANIC_BOOK_-_CEN].Station
+FROM [PANIC_BOOK_-_CEN]
+WHERE ((([PANIC_BOOK_-_CEN].Park) Not ALike "CAPITAL%"))

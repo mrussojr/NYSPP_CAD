@@ -1,0 +1,1146 @@
+Version =20
+VersionRequired =20
+Checksum =1022626348
+Begin Report
+    LayoutForPrint = NotDefault
+    DividingLines = NotDefault
+    AllowDesignChanges = NotDefault
+    DateGrouping =1
+    GrpKeepTogether =1
+    PictureAlignment =2
+    DatasheetGridlinesBehavior =3
+    GridX =24
+    GridY =24
+    Width =11520
+    DatasheetFontHeight =11
+    ItemSuffix =40
+    Left =30
+    Top =495
+    Right =11655
+    Bottom =8550
+    DatasheetGridlinesColor =15062992
+    RecSrcDt = Begin
+        0xc6f09c76308de440
+    End
+    GUID = Begin
+        0x36712a030337ea4fa583e5711a235c0c
+    End
+    RecordSource ="CourtContacts"
+    Caption ="CourtInfo"
+    DatasheetFontName ="Calibri"
+    PrtMip = Begin
+        0x680100006801000068010000680100000000000070350000140a000001000000 ,
+        0x010000006801000000000000a10700000100000001000000
+    End
+    PrtDevMode = Begin
+        0x00da72064ce43100503a2b0020402b0034dd44610000000086c34b604fc34b60 ,
+        0x010400069c002c0b43ff800701000100ea0a6f08640001000f00580201000200 ,
+        0x5802020001004c657474657200da7206ffffffffdc12aa1fc411aa1fe43a2b00 ,
+        0x3f00000000000000000000000000000000000000010000000000000001000000 ,
+        0x020000002c010000ffffffff0000000000000000000000000000000044494e55 ,
+        0x220008024404e8065d1461190000000000000000000000000000000000000000 ,
+        0x0000000000000000160000000000000000000200010000000000000001000000 ,
+        0x0000000000000000000000000000000000000000010000000000000000000000 ,
+        0x0000000000000000000000000000000000000000000000000000000000000000 ,
+        0x0000000000000000000000000000000000000000000000000000000000000000 ,
+        0x0000000000000000000000000000000000000000000000000000000000000000 ,
+        0x0000000000000000000000000000000000000000000000000000000000000000 ,
+        0x0000000000000000000000000000000000000000000000000000000000000000 ,
+        0x0000000000000000000000000000000000000000000000000000000000000000 ,
+        0x0000000000000000000000000000000000000000000000000000000000000000 ,
+        0x0000000000000000000000000000000000000000000000000000000000000000 ,
+        0x0000000000000000000000000000000000000000000000000000000000000000 ,
+        0x0000000000000000000000000000000000000000000000000000000000000000 ,
+        0x0000000000000000000000000000000000000000000000000000000000000000 ,
+        0x0000000000000000000000000000000000000000000000000000000000000000 ,
+        0x0000000000000000000000000000000000000000000000000000000000000000 ,
+        0x0000000000000000000000000000000000000000000000000000000000000000 ,
+        0x00000000000000000000000001000000000000000000000008020000534d544a ,
+        0x000000001000f8014c00650078006d00610072006b0020005400360035003000 ,
+        0x200028004d00530029000000496e70757442696e00464f524d534f5552434500 ,
+        0x524553444c4c00556e69726573444c4c004f7269656e746174696f6e00504f52 ,
+        0x5452414954005265736f6c7574696f6e00313230304951004475706c65780056 ,
+        0x4552544943414c00537461706c696e6700507274536574004f66667365745061 ,
+        0x67657300507274536574004f757470757442696e0050727453657400436f6c6c ,
+        0x617465004f4e00436f6c6f724d6f6465004d6f6e6f00546f6e65724461726b6e ,
+        0x6573730050727453657400506963747572654772616465005072696e74657253 ,
+        0x657474696e6700536d616c6c466f6e74456e68616e6365720054525545005072 ,
+        0x696e74416e64486f6c640054525545004861734b65657050726576696f757350 ,
+        0x484a6f62730054525545004861734e65775072696e745175616c697479005452 ,
+        0x554500416476616e636564426f6f6f6b6c6574416c676f726974686d00545255 ,
+        0x45004861734e657750696e005452554500506170657253697a65004c45545445 ,
+        0x52004d65646961547970650050727453657400446974686572004c4f5155414c ,
+        0x495459005472756554797065466f726d6174004f55544c494e45000000000000 ,
+        0x0000000000000000000000000000000000000000000000000000000000000000 ,
+        0xe80600004b4d584c010000000000000004000000000000000000000000000000 ,
+        0x0000000000000000000000000000000000000000000000000000000000000000 ,
+        0x0000000000000000000000000000000000000000000000000000000000000000 ,
+        0x0000000000000000000000000000000000000000000000000000000000000000 ,
+        0x0000000000000000000000000000000000000000000000000000000000000000 ,
+        0x0000000000000000000000000000000000000000000000000000000000000000 ,
+        0x0000000000000000000000000000000000000000000000000000000000000000 ,
+        0x0000000000000000000000000000000000000000000000000000000000000000 ,
+        0x0000000000000000000000000000000000000000000000000000000000000000 ,
+        0x0000000000000000000000000000000000000000000000000000000000000000 ,
+        0x0000000000000000000000000000000000000000000000000000000000000000 ,
+        0x0000000000000000000000000000000000000000000000000000000000000000 ,
+        0x0000000000000000000000000000000000000000000000000000000000000000 ,
+        0x0000000000000000000000000000000000000000000000000000000000000000 ,
+        0x0000000000000000000000000000000000000000000000000000000000000000 ,
+        0x0000000000000000000000000000000000000000000000000000000000000000 ,
+        0x0000000000000000000000000000000000000000000000000000000000000000 ,
+        0x0000000000000000000000000000000000000000000000000000000000000000 ,
+        0x0000000000000000000000000000000000000000000000000000000000000000 ,
+        0x0000000000000000000000000000000000000000000000000000000000000000 ,
+        0x0000000000000000000000000000000000000000000000000000000000000000 ,
+        0x0000000000000000000000000000000000000000000000000000000000000000 ,
+        0x0000000000000000000000000000000000000000000000000000000000000000 ,
+        0x0000000000000000000000000000000000000000000000000000000000000000 ,
+        0x0000000000000000000000000000000000000000000000000000000000000000 ,
+        0x0000000000000000000000000000000000000000000000000000000000000000 ,
+        0x0000000000000000000000000000000000000000000000000000000000000000 ,
+        0x0000000000000000000000000000000000000000000000000000000000000000 ,
+        0x0000000000000000000000000000000000000000000000000000000000000000 ,
+        0x0000000000000000000000000000000000000000000000000000000000000000 ,
+        0x0000000000000000000000000000000000000000000000000000000000000000 ,
+        0x0000000000000000000000000000000000000000000000000000000000000000 ,
+        0x0000000000000000000000000000000000000000000000000000000000000000 ,
+        0x0000000000000000000000000000000000000000000000000000000000000000 ,
+        0x0000000000000000000000000000000000000000000000000000000000000000 ,
+        0x0000000000000000000000000000000000000000000000000000000000000000 ,
+        0x0000000000000000000000000000000000000000000000000000000000000000 ,
+        0x0000000000000000000000000000000000000000000000000000000000000000 ,
+        0x0000000000000000000000000000000000000000000000000000000000000000 ,
+        0x0000000000000000000000000000000000000000000000000000000000000000 ,
+        0x0000000000000000000000000000000000000000000000000000000000000000 ,
+        0x0000000000000000000000000000000000000000000000000000000000000000 ,
+        0x0000000000000000000000000000000000000000000000000000000000000000 ,
+        0x0000000000000000000000000000000000000000000000000000000000000000 ,
+        0x0000000000000000000000000000000000000000000000000000000000000000 ,
+        0x0000000000000000000000000000000000000000000000000000000000000000 ,
+        0x0000000000000000000000000000000000000000000000000000000000000000 ,
+        0x0000000000000000000000000000000000000000000000000000000000000000 ,
+        0x0000000000000000000000000000000000000000000000000000000000000000 ,
+        0x0000000000000000000000000000000000000000000000000000000000000000 ,
+        0x0000000000000000000000000000000000000000000000000000000000000000 ,
+        0x0000000000000000000000000000000000000000000000000000000000000000 ,
+        0x0000000000000000000000000000000000000000000000000000000000000000 ,
+        0x00000000000000000000000000000000101f5205000000001500000005000000 ,
+        0x0000000000000000d08f52050000000000000000000000000000000000000000 ,
+        0x0000000000000000
+    End
+    PrtDevNames = Begin
+        0x08001a002c000100000000000000000000000000000000000000000000000000 ,
+        0x00000000000000000000000031302e39322e3134362e333900
+    End
+    FilterOnLoad =0
+    DatasheetBackColor12 =-2147483643
+    FitToPage =1
+    DisplayOnSharePointSite =1
+    DatasheetAlternateBackColor =16053492
+    DatasheetGridlinesColor12 =15062992
+    FitToScreen =1
+    PrtDevModeW = Begin
+        0x0000000000000000000000000000000000000000000000000000000000000000 ,
+        0x2900000000000000000000000000000000000000000000000000000000000000 ,
+        0x01040006dc002c0b43ff800701000100ea0a6f08640001000f00580201000200 ,
+        0x5802020001004c00650074007400650072000000000000000000000000000000 ,
+        0x0000000000000000000000000000000000000000000000000000000000000000 ,
+        0x0000000000000000000000000000000000000000010000000000000001000000 ,
+        0x020000002c010000ffffffff0000000000000000000000000000000044494e55 ,
+        0x220008024404e8065d1461190000000000000000000000000000000000000000 ,
+        0x0000000000000000160000000000000000000200010000000000000001000000 ,
+        0x0000000000000000000000000000000000000000010000000000000000000000 ,
+        0x0000000000000000000000000000000000000000000000000000000000000000 ,
+        0x0000000000000000000000000000000000000000000000000000000000000000 ,
+        0x0000000000000000000000000000000000000000000000000000000000000000 ,
+        0x0000000000000000000000000000000000000000000000000000000000000000 ,
+        0x0000000000000000000000000000000000000000000000000000000000000000 ,
+        0x0000000000000000000000000000000000000000000000000000000000000000 ,
+        0x0000000000000000000000000000000000000000000000000000000000000000 ,
+        0x0000000000000000000000000000000000000000000000000000000000000000 ,
+        0x0000000000000000000000000000000000000000000000000000000000000000 ,
+        0x0000000000000000000000000000000000000000000000000000000000000000 ,
+        0x0000000000000000000000000000000000000000000000000000000000000000 ,
+        0x0000000000000000000000000000000000000000000000000000000000000000 ,
+        0x0000000000000000000000000000000000000000000000000000000000000000 ,
+        0x0000000000000000000000000000000000000000000000000000000000000000 ,
+        0x00000000000000000000000001000000000000000000000008020000534d544a ,
+        0x000000001000f8014c00650078006d00610072006b0020005400360035003000 ,
+        0x200028004d00530029000000496e70757442696e00464f524d534f5552434500 ,
+        0x524553444c4c00556e69726573444c4c004f7269656e746174696f6e00504f52 ,
+        0x5452414954005265736f6c7574696f6e00313230304951004475706c65780056 ,
+        0x4552544943414c00537461706c696e6700507274536574004f66667365745061 ,
+        0x67657300507274536574004f757470757442696e0050727453657400436f6c6c ,
+        0x617465004f4e00436f6c6f724d6f6465004d6f6e6f00546f6e65724461726b6e ,
+        0x6573730050727453657400506963747572654772616465005072696e74657253 ,
+        0x657474696e6700536d616c6c466f6e74456e68616e6365720054525545005072 ,
+        0x696e74416e64486f6c640054525545004861734b65657050726576696f757350 ,
+        0x484a6f62730054525545004861734e65775072696e745175616c697479005452 ,
+        0x554500416476616e636564426f6f6f6b6c6574416c676f726974686d00545255 ,
+        0x45004861734e657750696e005452554500506170657253697a65004c45545445 ,
+        0x52004d65646961547970650050727453657400446974686572004c4f5155414c ,
+        0x495459005472756554797065466f726d6174004f55544c494e45000000000000 ,
+        0x0000000000000000000000000000000000000000000000000000000000000000 ,
+        0xe80600004b4d584c010000000000000004000000000000000000000000000000 ,
+        0x0000000000000000000000000000000000000000000000000000000000000000 ,
+        0x0000000000000000000000000000000000000000000000000000000000000000 ,
+        0x0000000000000000000000000000000000000000000000000000000000000000 ,
+        0x0000000000000000000000000000000000000000000000000000000000000000 ,
+        0x0000000000000000000000000000000000000000000000000000000000000000 ,
+        0x0000000000000000000000000000000000000000000000000000000000000000 ,
+        0x0000000000000000000000000000000000000000000000000000000000000000 ,
+        0x0000000000000000000000000000000000000000000000000000000000000000 ,
+        0x0000000000000000000000000000000000000000000000000000000000000000 ,
+        0x0000000000000000000000000000000000000000000000000000000000000000 ,
+        0x0000000000000000000000000000000000000000000000000000000000000000 ,
+        0x0000000000000000000000000000000000000000000000000000000000000000 ,
+        0x0000000000000000000000000000000000000000000000000000000000000000 ,
+        0x0000000000000000000000000000000000000000000000000000000000000000 ,
+        0x0000000000000000000000000000000000000000000000000000000000000000 ,
+        0x0000000000000000000000000000000000000000000000000000000000000000 ,
+        0x0000000000000000000000000000000000000000000000000000000000000000 ,
+        0x0000000000000000000000000000000000000000000000000000000000000000 ,
+        0x0000000000000000000000000000000000000000000000000000000000000000 ,
+        0x0000000000000000000000000000000000000000000000000000000000000000 ,
+        0x0000000000000000000000000000000000000000000000000000000000000000 ,
+        0x0000000000000000000000000000000000000000000000000000000000000000 ,
+        0x0000000000000000000000000000000000000000000000000000000000000000 ,
+        0x0000000000000000000000000000000000000000000000000000000000000000 ,
+        0x0000000000000000000000000000000000000000000000000000000000000000 ,
+        0x0000000000000000000000000000000000000000000000000000000000000000 ,
+        0x0000000000000000000000000000000000000000000000000000000000000000 ,
+        0x0000000000000000000000000000000000000000000000000000000000000000 ,
+        0x0000000000000000000000000000000000000000000000000000000000000000 ,
+        0x0000000000000000000000000000000000000000000000000000000000000000 ,
+        0x0000000000000000000000000000000000000000000000000000000000000000 ,
+        0x0000000000000000000000000000000000000000000000000000000000000000 ,
+        0x0000000000000000000000000000000000000000000000000000000000000000 ,
+        0x0000000000000000000000000000000000000000000000000000000000000000 ,
+        0x0000000000000000000000000000000000000000000000000000000000000000 ,
+        0x0000000000000000000000000000000000000000000000000000000000000000 ,
+        0x0000000000000000000000000000000000000000000000000000000000000000 ,
+        0x0000000000000000000000000000000000000000000000000000000000000000 ,
+        0x0000000000000000000000000000000000000000000000000000000000000000 ,
+        0x0000000000000000000000000000000000000000000000000000000000000000 ,
+        0x0000000000000000000000000000000000000000000000000000000000000000 ,
+        0x0000000000000000000000000000000000000000000000000000000000000000 ,
+        0x0000000000000000000000000000000000000000000000000000000000000000 ,
+        0x0000000000000000000000000000000000000000000000000000000000000000 ,
+        0x0000000000000000000000000000000000000000000000000000000000000000 ,
+        0x0000000000000000000000000000000000000000000000000000000000000000 ,
+        0x0000000000000000000000000000000000000000000000000000000000000000 ,
+        0x0000000000000000000000000000000000000000000000000000000000000000 ,
+        0x0000000000000000000000000000000000000000000000000000000000000000 ,
+        0x0000000000000000000000000000000000000000000000000000000000000000 ,
+        0x0000000000000000000000000000000000000000000000000000000000000000 ,
+        0x0000000000000000000000000000000000000000000000000000000000000000 ,
+        0x00000000000000000000000000000000101f5205000000001500000005000000 ,
+        0x0000000000000000d08f52050000000000000000000000000000000000000000 ,
+        0x0000000000000000
+    End
+    PrtDevNamesW = Begin
+        0x0400160028000100000000000000000000000000000000000000000000000000 ,
+        0x0000000000000000000000000000000000000000000000000000000000000000 ,
+        0x00000000000000000000000000000000310030002e00390032002e0031003400 ,
+        0x36002e00330039000000
+    End
+    NoSaveCTIWhenDisabled =1
+    Begin
+        Begin Label
+            BackStyle =0
+            FontSize =11
+            FontName ="Calibri"
+            ThemeFontIndex =1
+            BackThemeColorIndex =1
+            BorderThemeColorIndex =1
+            ForeThemeColorIndex =2
+            ForeTint =60.0
+            GridlineThemeColorIndex =1
+            GridlineShade =65.0
+        End
+        Begin Line
+            BorderLineStyle =0
+            GridlineThemeColorIndex =1
+            GridlineShade =65.0
+        End
+        Begin TextBox
+            FELineBreak = NotDefault
+            BorderLineStyle =0
+            LabelX =-1800
+            FontSize =11
+            FontName ="Calibri"
+            AsianLineBreak =1
+            ShowDatePicker =0
+            BackThemeColorIndex =1
+            BorderThemeColorIndex =3
+            BorderShade =90.0
+            ThemeFontIndex =1
+            ForeThemeColorIndex =2
+            ForeShade =50.0
+            GridlineThemeColorIndex =1
+            GridlineShade =65.0
+        End
+        Begin ComboBox
+            BorderLineStyle =0
+            LabelX =-1800
+            FontSize =11
+            FontName ="Calibri"
+            AllowValueListEdits =1
+            InheritValueList =1
+            ThemeFontIndex =1
+            BackThemeColorIndex =1
+            BorderThemeColorIndex =3
+            BorderShade =90.0
+            ForeThemeColorIndex =2
+            ForeShade =50.0
+            GridlineThemeColorIndex =1
+            GridlineShade =65.0
+        End
+        Begin BreakLevel
+            GroupHeader = NotDefault
+            ControlSource ="Jurisdiction"
+        End
+        Begin BreakLevel
+            ControlSource ="LastName"
+        End
+        Begin FormHeader
+            KeepTogether = NotDefault
+            Height =1050
+            BackColor =15849926
+            Name ="ReportHeader"
+            GUID = Begin
+                0xb0fda9a4baed9a4890a3ff6ef78e3b55
+            End
+            AutoHeight =1
+            AlternateBackThemeColorIndex =1
+            AlternateBackShade =95.0
+            BackThemeColorIndex =2
+            BackTint =20.0
+            Begin
+                Begin TextBox
+                    DecimalPlaces =0
+                    OldBorderStyle =0
+                    BackStyle =0
+                    IMESentenceMode =3
+                    Left =300
+                    Top =180
+                    Width =4860
+                    Height =600
+                    ColumnOrder =0
+                    FontSize =20
+                    BorderColor =16777215
+                    ForeColor =13995605
+                    Name ="Jurisdiction1"
+                    ControlSource ="=[Jurisdiction] & \"Court Info\""
+                    GUID = Begin
+                        0xa13988014bd15d4882d15e991c8e0631
+                    End
+                    GridlineColor =10921638
+
+                    LayoutCachedLeft =300
+                    LayoutCachedTop =180
+                    LayoutCachedWidth =5160
+                    LayoutCachedHeight =780
+                    BorderThemeColorIndex =1
+                    BorderShade =100.0
+                    ForeTint =60.0
+                    ForeShade =100.0
+                End
+            End
+        End
+        Begin PageHeader
+            Height =2040
+            Name ="PageHeaderSection"
+            GUID = Begin
+                0x377b3dbb30afc8428d3aa57affbb2d82
+            End
+            AlternateBackThemeColorIndex =1
+            AlternateBackShade =95.0
+            BackThemeColorIndex =1
+            Begin
+                Begin Label
+                    TextAlign =1
+                    Left =720
+                    Top =60
+                    Width =1260
+                    Height =315
+                    BorderColor =16777215
+                    ForeColor =13995605
+                    Name ="LastName_Label"
+                    Caption ="Last Name"
+                    Tag ="DetachedLabel"
+                    GUID = Begin
+                        0xad4152d301ab53418ae0492b93b58d67
+                    End
+                    GridlineStyleBottom =1
+                    GridlineColor =10921638
+                    LayoutCachedLeft =720
+                    LayoutCachedTop =60
+                    LayoutCachedWidth =1980
+                    LayoutCachedHeight =375
+                End
+                Begin Label
+                    TextAlign =1
+                    Left =2040
+                    Top =60
+                    Width =1260
+                    Height =315
+                    BorderColor =16777215
+                    ForeColor =13995605
+                    Name ="FirstName_Label"
+                    Caption ="First Name"
+                    Tag ="DetachedLabel"
+                    GUID = Begin
+                        0x244855149fa14f4d94bfb9cba12a0bbf
+                    End
+                    GridlineStyleBottom =1
+                    GridlineColor =10921638
+                    LayoutCachedLeft =2040
+                    LayoutCachedTop =60
+                    LayoutCachedWidth =3300
+                    LayoutCachedHeight =375
+                End
+                Begin Label
+                    TextAlign =1
+                    Left =3360
+                    Top =60
+                    Width =1260
+                    Height =315
+                    BorderColor =16777215
+                    ForeColor =13995605
+                    Name ="County_Label"
+                    Caption ="County"
+                    Tag ="DetachedLabel"
+                    GUID = Begin
+                        0x70c45457d0df354ca36d8dd83e4f41a9
+                    End
+                    GridlineStyleBottom =1
+                    GridlineColor =10921638
+                    LayoutCachedLeft =3360
+                    LayoutCachedTop =60
+                    LayoutCachedWidth =4620
+                    LayoutCachedHeight =375
+                End
+                Begin Label
+                    TextAlign =1
+                    Left =1440
+                    Top =420
+                    Width =1440
+                    Height =315
+                    BorderColor =16777215
+                    ForeColor =13995605
+                    Name ="Court Phone_Label"
+                    Caption ="Court Phone"
+                    Tag ="DetachedLabel"
+                    EventProcPrefix ="Court_Phone_Label"
+                    GUID = Begin
+                        0x1965e48fa10853418b8d35a8b9c0d781
+                    End
+                    GridlineStyleBottom =1
+                    GridlineColor =10921638
+                    LayoutCachedLeft =1440
+                    LayoutCachedTop =420
+                    LayoutCachedWidth =2880
+                    LayoutCachedHeight =735
+                End
+                Begin Label
+                    TextAlign =1
+                    Left =2940
+                    Top =420
+                    Width =1440
+                    Height =315
+                    BorderColor =16777215
+                    ForeColor =13995605
+                    Name ="HomePhone_Label"
+                    Caption ="Home Phone"
+                    Tag ="DetachedLabel"
+                    GUID = Begin
+                        0xf0e5e9937b00664b809f313a3ddd1c55
+                    End
+                    GridlineStyleBottom =1
+                    GridlineColor =10921638
+                    LayoutCachedLeft =2940
+                    LayoutCachedTop =420
+                    LayoutCachedWidth =4380
+                    LayoutCachedHeight =735
+                End
+                Begin Label
+                    TextAlign =1
+                    Left =4440
+                    Top =420
+                    Width =1440
+                    Height =315
+                    BorderColor =16777215
+                    ForeColor =13995605
+                    Name ="Cell/Pager/Work_Label"
+                    Caption ="Cell/Pager/Work"
+                    Tag ="DetachedLabel"
+                    EventProcPrefix ="Cell_Pager_Work_Label"
+                    GUID = Begin
+                        0xa50ea618cb5219468fb047f44f716897
+                    End
+                    GridlineStyleBottom =1
+                    GridlineColor =10921638
+                    LayoutCachedLeft =4440
+                    LayoutCachedTop =420
+                    LayoutCachedWidth =5880
+                    LayoutCachedHeight =735
+                End
+                Begin Label
+                    TextAlign =1
+                    Left =5940
+                    Top =420
+                    Width =1440
+                    Height =315
+                    BorderColor =16777215
+                    ForeColor =13995605
+                    Name ="Other Office_Label"
+                    Caption ="Other Office"
+                    Tag ="DetachedLabel"
+                    EventProcPrefix ="Other_Office_Label"
+                    GUID = Begin
+                        0xa27ec978c77163459d77d785903f76f3
+                    End
+                    GridlineStyleBottom =1
+                    GridlineColor =10921638
+                    LayoutCachedLeft =5940
+                    LayoutCachedTop =420
+                    LayoutCachedWidth =7380
+                    LayoutCachedHeight =735
+                End
+                Begin Label
+                    TextAlign =1
+                    Left =720
+                    Top =780
+                    Width =2460
+                    Height =315
+                    BorderColor =16777215
+                    ForeColor =13995605
+                    Name ="Mailing Address_Label"
+                    Caption ="Mailing Address"
+                    Tag ="DetachedLabel"
+                    EventProcPrefix ="Mailing_Address_Label"
+                    GUID = Begin
+                        0xd364db77032a0d4db5fe7b0d1f20a24c
+                    End
+                    GridlineStyleBottom =1
+                    GridlineColor =10921638
+                    LayoutCachedLeft =720
+                    LayoutCachedTop =780
+                    LayoutCachedWidth =3180
+                    LayoutCachedHeight =1095
+                End
+                Begin Label
+                    TextAlign =1
+                    Left =3360
+                    Top =780
+                    Width =1800
+                    Height =315
+                    BorderColor =16777215
+                    ForeColor =13995605
+                    Name ="Court Address_Label"
+                    Caption ="Court Address"
+                    Tag ="DetachedLabel"
+                    EventProcPrefix ="Court_Address_Label"
+                    GUID = Begin
+                        0x69309047bc9f634cb23c565d16f71d11
+                    End
+                    GridlineStyleBottom =1
+                    GridlineColor =10921638
+                    LayoutCachedLeft =3360
+                    LayoutCachedTop =780
+                    LayoutCachedWidth =5160
+                    LayoutCachedHeight =1095
+                End
+                Begin Label
+                    TextAlign =1
+                    Left =7380
+                    Top =780
+                    Width =2460
+                    Height =315
+                    BorderColor =16777215
+                    ForeColor =13995605
+                    Name ="Loc  Code_Label"
+                    Caption ="Loc  Code"
+                    Tag ="DetachedLabel"
+                    EventProcPrefix ="Loc__Code_Label"
+                    GUID = Begin
+                        0x07ae1c98524f1f4a9b1e53dde0b99618
+                    End
+                    GridlineStyleBottom =1
+                    GridlineColor =10921638
+                    LayoutCachedLeft =7380
+                    LayoutCachedTop =780
+                    LayoutCachedWidth =9840
+                    LayoutCachedHeight =1095
+                End
+                Begin Label
+                    TextAlign =1
+                    Left =7380
+                    Top =1140
+                    Width =1260
+                    Height =315
+                    BorderColor =16777215
+                    ForeColor =13995605
+                    Name ="Day_Label"
+                    Caption ="Day"
+                    Tag ="DetachedLabel"
+                    GUID = Begin
+                        0x9a858cd116867245b94847ff564d03f7
+                    End
+                    GridlineStyleBottom =1
+                    GridlineColor =10921638
+                    LayoutCachedLeft =7380
+                    LayoutCachedTop =1140
+                    LayoutCachedWidth =8640
+                    LayoutCachedHeight =1455
+                End
+                Begin Label
+                    TextAlign =1
+                    Left =9540
+                    Top =1140
+                    Width =1260
+                    Height =315
+                    BorderColor =16777215
+                    ForeColor =13995605
+                    Name ="Time_Label"
+                    Caption ="Time"
+                    Tag ="DetachedLabel"
+                    GUID = Begin
+                        0x4f6fd0a4aa64aa4dbf16b31e3d9619c1
+                    End
+                    GridlineStyleBottom =1
+                    GridlineColor =10921638
+                    LayoutCachedLeft =9540
+                    LayoutCachedTop =1140
+                    LayoutCachedWidth =10800
+                    LayoutCachedHeight =1455
+                End
+                Begin Label
+                    TextAlign =1
+                    Left =9900
+                    Top =780
+                    Width =1380
+                    Height =315
+                    BorderColor =16777215
+                    ForeColor =13995605
+                    Name ="Court ORI_Label"
+                    Caption ="Court ORI"
+                    Tag ="DetachedLabel"
+                    EventProcPrefix ="Court_ORI_Label"
+                    GUID = Begin
+                        0x2c2c1339583ae64db51fedb763cae525
+                    End
+                    GridlineStyleBottom =1
+                    GridlineColor =10921638
+                    LayoutCachedLeft =9900
+                    LayoutCachedTop =780
+                    LayoutCachedWidth =11280
+                    LayoutCachedHeight =1095
+                End
+                Begin Label
+                    TextAlign =1
+                    Left =720
+                    Top =1500
+                    Width =2460
+                    Height =315
+                    BorderColor =16777215
+                    ForeColor =13995605
+                    Name ="Notes_Label"
+                    Caption ="Notes"
+                    Tag ="DetachedLabel"
+                    GUID = Begin
+                        0xa844ff68bf0cb4499eb5a57b320e2979
+                    End
+                    GridlineStyleBottom =1
+                    GridlineColor =10921638
+                    LayoutCachedLeft =720
+                    LayoutCachedTop =1500
+                    LayoutCachedWidth =3180
+                    LayoutCachedHeight =1815
+                End
+                Begin Label
+                    TextAlign =1
+                    Left =7440
+                    Top =420
+                    Width =2520
+                    Height =315
+                    BorderColor =16777215
+                    ForeColor =13995605
+                    Name ="EMAIL_Label"
+                    Caption ="EMAIL"
+                    Tag ="DetachedLabel"
+                    GUID = Begin
+                        0xb48d8b8fc7b2fb4dba443657d8309524
+                    End
+                    GridlineStyleBottom =1
+                    GridlineColor =10921638
+                    LayoutCachedLeft =7440
+                    LayoutCachedTop =420
+                    LayoutCachedWidth =9960
+                    LayoutCachedHeight =735
+                End
+            End
+        End
+        Begin BreakHeader
+            KeepTogether = NotDefault
+            Height =0
+            Name ="GroupHeader0"
+            GUID = Begin
+                0xf80023c650667d419e7b3ba7e46d96b5
+            End
+            AlternateBackColor =15921906
+            AlternateBackThemeColorIndex =1
+            AlternateBackShade =95.0
+            BackThemeColorIndex =1
+        End
+        Begin Section
+            KeepTogether = NotDefault
+            Height =2880
+            Name ="Detail"
+            GUID = Begin
+                0x1f60a0bf38fa5b47be18867843c7fd22
+            End
+            AlternateBackColor =15921906
+            AlternateBackThemeColorIndex =1
+            AlternateBackShade =95.0
+            BackThemeColorIndex =1
+            Begin
+                Begin TextBox
+                    OldBorderStyle =0
+                    IMESentenceMode =3
+                    Left =720
+                    Width =1260
+                    Height =330
+                    ColumnWidth =1200
+                    BorderColor =12835293
+                    ForeColor =4138256
+                    Name ="LastName"
+                    ControlSource ="LastName"
+                    GUID = Begin
+                        0xc35cbfda0a544543b6b43c0bfc2cd777
+                    End
+                    GridlineColor =10921638
+
+                    LayoutCachedLeft =720
+                    LayoutCachedWidth =1980
+                    LayoutCachedHeight =330
+                End
+                Begin TextBox
+                    OldBorderStyle =0
+                    IMESentenceMode =3
+                    Left =2040
+                    Width =1260
+                    Height =330
+                    ColumnWidth =1170
+                    TabIndex =1
+                    BorderColor =12835293
+                    ForeColor =4138256
+                    Name ="FirstName"
+                    ControlSource ="FirstName"
+                    GUID = Begin
+                        0x880ec41eac8a5a4983877a5bcd26f34e
+                    End
+                    GridlineColor =10921638
+
+                    LayoutCachedLeft =2040
+                    LayoutCachedWidth =3300
+                    LayoutCachedHeight =330
+                End
+                Begin ComboBox
+                    RowSourceTypeInt =1
+                    OldBorderStyle =0
+                    IMESentenceMode =3
+                    ListRows =8
+                    ListWidth =1440
+                    Left =3360
+                    Width =1260
+                    Height =330
+                    TabIndex =2
+                    BorderColor =12835293
+                    ForeColor =4138256
+                    GUID = Begin
+                        0x2bc40d492c78974c9d27c683d0c0fce9
+                    End
+                    Name ="County"
+                    ControlSource ="County"
+                    RowSourceType ="Value List"
+                    RowSource ="\"BROOME\";\"CHENANGO\";\"CORTLAND\";\"DELAWARE\";\"HERKIMER\";\"MADISON\";\"ONE"
+                        "IDA\";\"ONONDAGA\";\"OSWEGO\";\"OTSEGO\""
+                    ColumnWidths ="1440"
+                    GridlineColor =10921638
+                    AllowValueListEdits =0
+
+                    LayoutCachedLeft =3360
+                    LayoutCachedWidth =4620
+                    LayoutCachedHeight =330
+                End
+                Begin TextBox
+                    OldBorderStyle =0
+                    IMESentenceMode =3
+                    Left =1440
+                    Top =420
+                    Height =330
+                    ColumnWidth =2010
+                    TabIndex =3
+                    BorderColor =12835293
+                    ForeColor =4138256
+                    Name ="Court Phone"
+                    ControlSource ="Court_Phone"
+                    InputMask ="!\\(999\") \"000\\-0000"
+                    EventProcPrefix ="Court_Phone"
+                    GUID = Begin
+                        0x8f6f9957bf35a34aa0c1fa1757ebae39
+                    End
+                    GridlineColor =10921638
+
+                    LayoutCachedLeft =1440
+                    LayoutCachedTop =420
+                    LayoutCachedWidth =2880
+                    LayoutCachedHeight =750
+                End
+                Begin TextBox
+                    OldBorderStyle =0
+                    IMESentenceMode =3
+                    Left =2940
+                    Top =420
+                    Height =330
+                    ColumnWidth =2010
+                    TabIndex =4
+                    BorderColor =12835293
+                    ForeColor =4138256
+                    Name ="HomePhone"
+                    ControlSource ="HomePhone"
+                    InputMask ="!\\(999\") \"000\\-0000"
+                    GUID = Begin
+                        0x90cd558a181ce2478d2ab161e2db753f
+                    End
+                    GridlineColor =10921638
+
+                    LayoutCachedLeft =2940
+                    LayoutCachedTop =420
+                    LayoutCachedWidth =4380
+                    LayoutCachedHeight =750
+                End
+                Begin TextBox
+                    OldBorderStyle =0
+                    IMESentenceMode =3
+                    Left =4440
+                    Top =420
+                    Height =330
+                    ColumnWidth =2010
+                    TabIndex =5
+                    BorderColor =12835293
+                    ForeColor =4138256
+                    Name ="Cell/Pager/Work"
+                    ControlSource ="Cell/Pager/Work"
+                    InputMask ="!\\(999\") \"000\\-0000"
+                    EventProcPrefix ="Cell_Pager_Work"
+                    GUID = Begin
+                        0xa4e87b162c39184db208c85b75546a3d
+                    End
+                    GridlineColor =10921638
+
+                    LayoutCachedLeft =4440
+                    LayoutCachedTop =420
+                    LayoutCachedWidth =5880
+                    LayoutCachedHeight =750
+                End
+                Begin TextBox
+                    OldBorderStyle =0
+                    IMESentenceMode =3
+                    Left =5940
+                    Top =420
+                    Height =330
+                    TabIndex =6
+                    BorderColor =12835293
+                    ForeColor =4138256
+                    Name ="Other Office"
+                    ControlSource ="OtherOffice"
+                    InputMask ="!\\(999\") \"000\\-0000;0;_"
+                    EventProcPrefix ="Other_Office"
+                    GUID = Begin
+                        0xe0b046d1e4c81943a6f9e4e48505bc54
+                    End
+                    GridlineColor =10921638
+
+                    LayoutCachedLeft =5940
+                    LayoutCachedTop =420
+                    LayoutCachedWidth =7380
+                    LayoutCachedHeight =750
+                End
+                Begin TextBox
+                    OldBorderStyle =0
+                    IMESentenceMode =3
+                    Left =1440
+                    Top =840
+                    Width =2460
+                    Height =330
+                    ColumnWidth =4365
+                    TabIndex =7
+                    BorderColor =12835293
+                    ForeColor =4138256
+                    Name ="Mailing Address"
+                    ControlSource ="Mailing_Address"
+                    EventProcPrefix ="Mailing_Address"
+                    GUID = Begin
+                        0xfb04ce8ab1bea3428eb702ca9e9e40c3
+                    End
+                    GridlineColor =10921638
+
+                    LayoutCachedLeft =1440
+                    LayoutCachedTop =840
+                    LayoutCachedWidth =3900
+                    LayoutCachedHeight =1170
+                End
+                Begin TextBox
+                    OldBorderStyle =0
+                    IMESentenceMode =3
+                    Left =1440
+                    Top =1260
+                    Width =2460
+                    Height =330
+                    TabIndex =8
+                    BorderColor =12835293
+                    ForeColor =4138256
+                    Name ="Mailing Address 2"
+                    ControlSource ="Mailing_Address_2"
+                    EventProcPrefix ="Mailing_Address_2"
+                    GUID = Begin
+                        0xcbd9ab2e5e83f94c901e622b65f6507e
+                    End
+                    GridlineColor =10921638
+
+                    LayoutCachedLeft =1440
+                    LayoutCachedTop =1260
+                    LayoutCachedWidth =3900
+                    LayoutCachedHeight =1590
+                End
+                Begin TextBox
+                    OldBorderStyle =0
+                    IMESentenceMode =3
+                    Left =1440
+                    Top =1680
+                    Width =2460
+                    Height =330
+                    ColumnWidth =2532
+                    TabIndex =9
+                    BorderColor =12835293
+                    ForeColor =4138256
+                    Name ="City_State_Zip"
+                    ControlSource ="City_State_Zip"
+                    GUID = Begin
+                        0x8fd31759f102c34eaa076a9bea978bbe
+                    End
+                    GridlineColor =10921638
+
+                    LayoutCachedLeft =1440
+                    LayoutCachedTop =1680
+                    LayoutCachedWidth =3900
+                    LayoutCachedHeight =2010
+                End
+                Begin TextBox
+                    OldBorderStyle =0
+                    IMESentenceMode =3
+                    Left =4080
+                    Top =840
+                    Width =3120
+                    Height =1140
+                    ColumnWidth =3495
+                    TabIndex =10
+                    BorderColor =12835293
+                    ForeColor =4138256
+                    Name ="Court Address"
+                    ControlSource ="Court_Address"
+                    EventProcPrefix ="Court_Address"
+                    GUID = Begin
+                        0x665c15cb88ab2a4291d1bdcc6991ff8a
+                    End
+                    GridlineColor =10921638
+
+                    LayoutCachedLeft =4080
+                    LayoutCachedTop =840
+                    LayoutCachedWidth =7200
+                    LayoutCachedHeight =1980
+                End
+                Begin TextBox
+                    OldBorderStyle =0
+                    IMESentenceMode =3
+                    Left =7380
+                    Top =840
+                    Width =2460
+                    Height =330
+                    TabIndex =11
+                    BorderColor =12835293
+                    ForeColor =4138256
+                    Name ="Loc  Code"
+                    ControlSource ="Loc_Code"
+                    EventProcPrefix ="Loc__Code"
+                    GUID = Begin
+                        0xb562d98a87fc9547b123d66da2afcaf6
+                    End
+                    GridlineColor =10921638
+
+                    LayoutCachedLeft =7380
+                    LayoutCachedTop =840
+                    LayoutCachedWidth =9840
+                    LayoutCachedHeight =1170
+                End
+                Begin TextBox
+                    OldBorderStyle =0
+                    IMESentenceMode =3
+                    Left =7380
+                    Top =1260
+                    Width =2100
+                    Height =330
+                    TabIndex =12
+                    BorderColor =12835293
+                    ForeColor =4138256
+                    Name ="Day"
+                    ControlSource ="Day"
+                    GUID = Begin
+                        0xf398016d6a561244a831afc3feb04210
+                    End
+                    GridlineColor =10921638
+
+                    LayoutCachedLeft =7380
+                    LayoutCachedTop =1260
+                    LayoutCachedWidth =9480
+                    LayoutCachedHeight =1590
+                End
+                Begin TextBox
+                    OldBorderStyle =0
+                    IMESentenceMode =3
+                    Left =9540
+                    Top =1260
+                    Width =1260
+                    Height =330
+                    TabIndex =13
+                    BorderColor =12835293
+                    ForeColor =4138256
+                    Name ="Time"
+                    ControlSource ="Time"
+                    GUID = Begin
+                        0xeddbe3d682407a4da695f4807c4eb8f7
+                    End
+                    GridlineColor =10921638
+
+                    LayoutCachedLeft =9540
+                    LayoutCachedTop =1260
+                    LayoutCachedWidth =10800
+                    LayoutCachedHeight =1590
+                End
+                Begin TextBox
+                    OldBorderStyle =0
+                    IMESentenceMode =3
+                    Left =9900
+                    Top =840
+                    Width =1380
+                    Height =330
+                    TabIndex =14
+                    BorderColor =12835293
+                    ForeColor =4138256
+                    Name ="Court ORI"
+                    ControlSource ="Court_ORI"
+                    EventProcPrefix ="Court_ORI"
+                    GUID = Begin
+                        0xfc4ea65f767d8e489d4b892fc8128960
+                    End
+                    GridlineColor =10921638
+
+                    LayoutCachedLeft =9900
+                    LayoutCachedTop =840
+                    LayoutCachedWidth =11280
+                    LayoutCachedHeight =1170
+                End
+                Begin TextBox
+                    OldBorderStyle =0
+                    IMESentenceMode =3
+                    Left =1440
+                    Top =2100
+                    Width =3780
+                    Height =660
+                    ColumnWidth =2952
+                    TabIndex =15
+                    BorderColor =12835293
+                    ForeColor =4138256
+                    Name ="Notes"
+                    ControlSource ="Justices.Notes"
+                    GUID = Begin
+                        0x44cba263115f494cad8bd8f94dfd3f8a
+                    End
+                    GridlineColor =10921638
+
+                    LayoutCachedLeft =1440
+                    LayoutCachedTop =2100
+                    LayoutCachedWidth =5220
+                    LayoutCachedHeight =2760
+                End
+                Begin TextBox
+                    OldBorderStyle =0
+                    IMESentenceMode =3
+                    Left =7440
+                    Top =420
+                    Width =2520
+                    Height =330
+                    ColumnWidth =3060
+                    TabIndex =16
+                    BorderColor =12835293
+                    ForeColor =4138256
+                    Name ="EMAIL"
+                    ControlSource ="Justices.Email"
+                    OnClick ="[Event Procedure]"
+                    ControlTipText ="Send Email to Judge"
+                    GUID = Begin
+                        0xc899270705528449815015c7df0d5f90
+                    End
+                    GridlineColor =10921638
+
+                    LayoutCachedLeft =7440
+                    LayoutCachedTop =420
+                    LayoutCachedWidth =9960
+                    LayoutCachedHeight =750
+                End
+                Begin Line
+                    BorderWidth =2
+                    Left =60
+                    Top =2820
+                    Width =11460
+                    BorderColor =12349952
+                    Name ="Line39"
+                    GUID = Begin
+                        0x80b24cd3bdfc0f4bb7dbecc9cc5658cd
+                    End
+                    GridlineColor =10921638
+                    LayoutCachedLeft =60
+                    LayoutCachedTop =2820
+                    LayoutCachedWidth =11520
+                    LayoutCachedHeight =2820
+                End
+            End
+        End
+        Begin PageFooter
+            Height =0
+            Name ="PageFooterSection"
+            GUID = Begin
+                0x301db6c1e4f1984b9a75b93164fa3553
+            End
+            AlternateBackThemeColorIndex =1
+            AlternateBackShade =95.0
+            BackThemeColorIndex =1
+        End
+        Begin FormFooter
+            KeepTogether = NotDefault
+            Height =0
+            Name ="ReportFooter"
+            GUID = Begin
+                0x5bd6ee7f8b1b884e9d53f4386501b883
+            End
+            AutoHeight =1
+            AlternateBackThemeColorIndex =1
+            AlternateBackShade =95.0
+            BackThemeColorIndex =1
+        End
+    End
+End

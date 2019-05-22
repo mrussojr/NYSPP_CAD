@@ -1,0 +1,2 @@
+SELECT [PANIC_BOOK_-_FL].ID, [PANIC_BOOK_-_FL].[Park_Facility], "Finger Lakes" AS Expr1, [PANIC_BOOK_-_FL].ParksID, "P" AS type, [PANIC_BOOK_-_FL].County, [PANIC_BOOK_-_FL].Station
+FROM [PANIC_BOOK_-_FL]

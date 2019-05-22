@@ -1,0 +1,3 @@
+SELECT commlog.Date1, DateValue([Date1]) AS Expr3, commlog.Time1, CheckTextValue([commlog]![SourceCall],[commlog]![UnitCalled]) AS Expr1, commlog.Reason, commlog.Narrative, CheckWhoCalled([commlog]![UnitCalled]) AS Expr2, TimeValue([Time1]) AS Expr4, (DCount("id","commlog","id <= " & [commlog].[id])) AS SeqNum, ReturnDateValue([Date1],[Time1]) AS Expr5, commlog.id
+FROM commlog
+ORDER BY DateValue([Date1]) DESC , commlog.Time1 DESC , commlog.id DESC
