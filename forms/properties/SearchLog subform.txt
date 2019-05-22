@@ -1,0 +1,619 @@
+Version =20
+VersionRequired =20
+PublishOption =1
+Checksum =1126328397
+Begin Form
+    AutoCenter = NotDefault
+    AllowDeletions = NotDefault
+    DividingLines = NotDefault
+    AllowAdditions = NotDefault
+    OrderByOn = NotDefault
+    AllowEdits = NotDefault
+    AllowDesignChanges = NotDefault
+    DefaultView =2
+    PictureAlignment =2
+    DatasheetGridlinesBehavior =3
+    GridX =24
+    GridY =24
+    Width =10230
+    DatasheetFontHeight =11
+    ItemSuffix =20
+    Left =240
+    Top =4395
+    Right =12675
+    Bottom =8940
+    DatasheetGridlinesColor =14806254
+    OrderBy ="[SearchLog].[Date1] DESC, [SearchLog].[Time1]"
+    RecSrcDt = Begin
+        0x9be972eaf38de440
+    End
+    GUID = Begin
+        0xbd03c6a425492240a731956bebcf888e
+    End
+    RecordSource ="SearchLog"
+    Caption ="SearchLog subform"
+    DatasheetFontName ="Calibri"
+    AllowPivotTableView =0
+    AllowPivotChartView =0
+    AllowPivotChartView =0
+    FilterOnLoad =0
+    ShowPageMargins =0
+    DisplayOnSharePointSite =1
+    DatasheetAlternateBackColor =15921906
+    DatasheetGridlinesColor12 =0
+    FitToScreen =1
+    DatasheetBackThemeColorIndex =1
+    BorderThemeColorIndex =3
+    ThemeFontIndex =1
+    ForeThemeColorIndex =0
+    AlternateBackThemeColorIndex =1
+    AlternateBackShade =95.0
+    NoSaveCTIWhenDisabled =1
+    Begin
+        Begin Label
+            BackStyle =0
+            FontSize =11
+            FontName ="Calibri"
+            ThemeFontIndex =1
+            BackThemeColorIndex =1
+            BorderThemeColorIndex =0
+            BorderTint =50.0
+            ForeThemeColorIndex =0
+            ForeTint =50.0
+            GridlineThemeColorIndex =1
+            GridlineShade =65.0
+        End
+        Begin TextBox
+            AddColon = NotDefault
+            FELineBreak = NotDefault
+            BorderLineStyle =0
+            LabelX =-1800
+            FontSize =11
+            FontName ="Calibri"
+            AsianLineBreak =1
+            BackThemeColorIndex =1
+            BorderThemeColorIndex =1
+            BorderShade =65.0
+            ThemeFontIndex =1
+            ForeThemeColorIndex =0
+            ForeTint =75.0
+            GridlineThemeColorIndex =1
+            GridlineShade =65.0
+        End
+        Begin FormHeader
+            Height =0
+            BackColor =15849926
+            Name ="FormHeader"
+            GUID = Begin
+                0x0b65fcb7d1118c4e86054efd0cce4589
+            End
+            AutoHeight =1
+            AlternateBackThemeColorIndex =1
+            AlternateBackShade =95.0
+            BackThemeColorIndex =2
+            BackTint =20.0
+        End
+        Begin Section
+            Height =7500
+            Name ="Detail"
+            GUID = Begin
+                0xe33cbacabc6f384d81339854a57d154d
+            End
+            AlternateBackColor =15921906
+            AlternateBackThemeColorIndex =1
+            AlternateBackShade =95.0
+            BackThemeColorIndex =1
+            Begin
+                Begin TextBox
+                    EnterKeyBehavior = NotDefault
+                    ScrollBars =2
+                    OverlapFlags =85
+                    IMESentenceMode =3
+                    Left =2910
+                    Top =360
+                    Width =7260
+                    Height =600
+                    ColumnWidth =1290
+                    BorderColor =10921638
+                    ForeColor =4210752
+                    Name ="Date1"
+                    ControlSource ="Date1"
+                    InputMask ="99/99/0000;0;_"
+                    GUID = Begin
+                        0x08bd3280f92ebf4f8827b734eaace124
+                    End
+                    GridlineColor =10921638
+
+                    LayoutCachedLeft =2910
+                    LayoutCachedTop =360
+                    LayoutCachedWidth =10170
+                    LayoutCachedHeight =960
+                    Begin
+                        Begin Label
+                            OverlapFlags =85
+                            Left =360
+                            Top =360
+                            Width =2460
+                            Height =330
+                            BorderColor =8355711
+                            ForeColor =8355711
+                            Name ="Date1_Label"
+                            Caption ="Date1"
+                            GUID = Begin
+                                0xa90a16321460434ebe1875dfd6976704
+                            End
+                            GridlineColor =10921638
+                            LayoutCachedLeft =360
+                            LayoutCachedTop =360
+                            LayoutCachedWidth =2820
+                            LayoutCachedHeight =690
+                        End
+                    End
+                End
+                Begin TextBox
+                    EnterKeyBehavior = NotDefault
+                    ScrollBars =2
+                    OverlapFlags =85
+                    IMESentenceMode =3
+                    Left =2910
+                    Top =1080
+                    Width =7260
+                    Height =600
+                    ColumnWidth =735
+                    TabIndex =1
+                    BorderColor =10921638
+                    ForeColor =4210752
+                    Name ="Time1"
+                    ControlSource ="Time1"
+                    InputMask ="00:00;0;_"
+                    GUID = Begin
+                        0x4c41c17e76550c4ea681d04c43d60475
+                    End
+                    GridlineColor =10921638
+
+                    LayoutCachedLeft =2910
+                    LayoutCachedTop =1080
+                    LayoutCachedWidth =10170
+                    LayoutCachedHeight =1680
+                    Begin
+                        Begin Label
+                            OverlapFlags =85
+                            Left =360
+                            Top =1080
+                            Width =2460
+                            Height =330
+                            BorderColor =8355711
+                            ForeColor =8355711
+                            Name ="Time1_Label"
+                            Caption ="Time1"
+                            GUID = Begin
+                                0x847c07e482691a4ab9337e85e168b1a8
+                            End
+                            GridlineColor =10921638
+                            LayoutCachedLeft =360
+                            LayoutCachedTop =1080
+                            LayoutCachedWidth =2820
+                            LayoutCachedHeight =1410
+                        End
+                    End
+                End
+                Begin TextBox
+                    EnterKeyBehavior = NotDefault
+                    ScrollBars =2
+                    OverlapFlags =85
+                    IMESentenceMode =3
+                    Left =2910
+                    Top =1800
+                    Width =7260
+                    Height =600
+                    ColumnWidth =2070
+                    TabIndex =2
+                    BorderColor =10921638
+                    ForeColor =4210752
+                    Name ="UnitCalled"
+                    ControlSource ="UnitCalled"
+                    GUID = Begin
+                        0xd51295bf38532e46b574f7413d184eaa
+                    End
+                    GridlineColor =10921638
+
+                    LayoutCachedLeft =2910
+                    LayoutCachedTop =1800
+                    LayoutCachedWidth =10170
+                    LayoutCachedHeight =2400
+                    Begin
+                        Begin Label
+                            OverlapFlags =85
+                            Left =360
+                            Top =1800
+                            Width =2460
+                            Height =330
+                            BorderColor =8355711
+                            ForeColor =8355711
+                            Name ="UnitCalled_Label"
+                            Caption ="UnitCalled"
+                            GUID = Begin
+                                0x4ffc58482ec31e41b8718fbaec83f3a5
+                            End
+                            GridlineColor =10921638
+                            LayoutCachedLeft =360
+                            LayoutCachedTop =1800
+                            LayoutCachedWidth =2820
+                            LayoutCachedHeight =2130
+                        End
+                    End
+                End
+                Begin TextBox
+                    EnterKeyBehavior = NotDefault
+                    ScrollBars =2
+                    OverlapFlags =85
+                    IMESentenceMode =3
+                    Left =2910
+                    Top =2520
+                    Width =7260
+                    Height =600
+                    ColumnWidth =1725
+                    TabIndex =3
+                    BorderColor =10921638
+                    ForeColor =4210752
+                    Name ="SourceCall"
+                    ControlSource ="SourceCall"
+                    GUID = Begin
+                        0xaf5a7112bcc8ef4997f363e0fbd09080
+                    End
+                    GridlineColor =10921638
+
+                    LayoutCachedLeft =2910
+                    LayoutCachedTop =2520
+                    LayoutCachedWidth =10170
+                    LayoutCachedHeight =3120
+                    Begin
+                        Begin Label
+                            OverlapFlags =85
+                            Left =360
+                            Top =2520
+                            Width =2460
+                            Height =330
+                            BorderColor =8355711
+                            ForeColor =8355711
+                            Name ="SourceCall_Label"
+                            Caption ="SourceCall"
+                            GUID = Begin
+                                0x5280da9446dfef42ac62fea034a42d27
+                            End
+                            GridlineColor =10921638
+                            LayoutCachedLeft =360
+                            LayoutCachedTop =2520
+                            LayoutCachedWidth =2820
+                            LayoutCachedHeight =2850
+                        End
+                    End
+                End
+                Begin TextBox
+                    EnterKeyBehavior = NotDefault
+                    ScrollBars =2
+                    OverlapFlags =85
+                    IMESentenceMode =3
+                    Left =2910
+                    Top =3240
+                    Width =7260
+                    Height =600
+                    ColumnWidth =1275
+                    TabIndex =4
+                    BorderColor =10921638
+                    ForeColor =4210752
+                    Name ="Reason"
+                    ControlSource ="Reason"
+                    GUID = Begin
+                        0x79e85cb925dde447b6c202b38a59f6a8
+                    End
+                    GridlineColor =10921638
+
+                    LayoutCachedLeft =2910
+                    LayoutCachedTop =3240
+                    LayoutCachedWidth =10170
+                    LayoutCachedHeight =3840
+                    Begin
+                        Begin Label
+                            OverlapFlags =85
+                            Left =360
+                            Top =3240
+                            Width =2460
+                            Height =330
+                            BorderColor =8355711
+                            ForeColor =8355711
+                            Name ="Reason_Label"
+                            Caption ="Reason"
+                            GUID = Begin
+                                0x17e8df78a7fe6d4a9f62aac86d4ff8bc
+                            End
+                            GridlineColor =10921638
+                            LayoutCachedLeft =360
+                            LayoutCachedTop =3240
+                            LayoutCachedWidth =2820
+                            LayoutCachedHeight =3570
+                        End
+                    End
+                End
+                Begin TextBox
+                    EnterKeyBehavior = NotDefault
+                    ScrollBars =2
+                    OverlapFlags =85
+                    IMESentenceMode =3
+                    Left =2910
+                    Top =3960
+                    Width =7260
+                    Height =1140
+                    ColumnWidth =3525
+                    TabIndex =5
+                    BorderColor =10921638
+                    ForeColor =4210752
+                    Name ="Narrative"
+                    ControlSource ="Narrative"
+                    GUID = Begin
+                        0xeb4fb3c48e2f8540971f39f405b687b0
+                    End
+                    GridlineColor =10921638
+
+                    LayoutCachedLeft =2910
+                    LayoutCachedTop =3960
+                    LayoutCachedWidth =10170
+                    LayoutCachedHeight =5100
+                    Begin
+                        Begin Label
+                            OverlapFlags =85
+                            Left =360
+                            Top =3960
+                            Width =2460
+                            Height =330
+                            BorderColor =8355711
+                            ForeColor =8355711
+                            Name ="Narrative_Label"
+                            Caption ="Narrative"
+                            GUID = Begin
+                                0x77ab6b34197bd0499f774f31cb564ffb
+                            End
+                            GridlineColor =10921638
+                            LayoutCachedLeft =360
+                            LayoutCachedTop =3960
+                            LayoutCachedWidth =2820
+                            LayoutCachedHeight =4290
+                        End
+                    End
+                End
+                Begin TextBox
+                    EnterKeyBehavior = NotDefault
+                    ScrollBars =2
+                    OverlapFlags =85
+                    IMESentenceMode =3
+                    Left =2910
+                    Top =5220
+                    Width =7260
+                    Height =600
+                    ColumnWidth =570
+                    TabIndex =6
+                    BorderColor =10921638
+                    ForeColor =4210752
+                    Name ="Dispatcher"
+                    ControlSource ="Dispatcher"
+                    GUID = Begin
+                        0x3186a841c716da4b95102452c60ab762
+                    End
+                    GridlineColor =10921638
+
+                    LayoutCachedLeft =2910
+                    LayoutCachedTop =5220
+                    LayoutCachedWidth =10170
+                    LayoutCachedHeight =5820
+                    Begin
+                        Begin Label
+                            OverlapFlags =85
+                            Left =360
+                            Top =5220
+                            Width =2460
+                            Height =330
+                            BorderColor =8355711
+                            ForeColor =8355711
+                            Name ="Dispatcher_Label"
+                            Caption ="Dispatcher"
+                            GUID = Begin
+                                0x7975a423aefd8f428cc9f88d3f7e14b5
+                            End
+                            GridlineColor =10921638
+                            LayoutCachedLeft =360
+                            LayoutCachedTop =5220
+                            LayoutCachedWidth =2820
+                            LayoutCachedHeight =5550
+                        End
+                    End
+                End
+                Begin TextBox
+                    ColumnHidden = NotDefault
+                    OverlapFlags =85
+                    IMESentenceMode =3
+                    Left =2910
+                    Top =5940
+                    Height =315
+                    ColumnWidth =1440
+                    TabIndex =7
+                    BorderColor =10921638
+                    ForeColor =4210752
+                    Name ="id"
+                    ControlSource ="id"
+                    GUID = Begin
+                        0x78964efc1454fa43a28073f7b417ca0b
+                    End
+                    GridlineColor =10921638
+
+                    LayoutCachedLeft =2910
+                    LayoutCachedTop =5940
+                    LayoutCachedWidth =4350
+                    LayoutCachedHeight =6255
+                    Begin
+                        Begin Label
+                            OverlapFlags =85
+                            Left =360
+                            Top =5940
+                            Width =2460
+                            Height =330
+                            BorderColor =8355711
+                            ForeColor =8355711
+                            Name ="id_Label"
+                            Caption ="id"
+                            GUID = Begin
+                                0x164bd746059c624faa45af573db00400
+                            End
+                            GridlineColor =10921638
+                            LayoutCachedLeft =360
+                            LayoutCachedTop =5940
+                            LayoutCachedWidth =2820
+                            LayoutCachedHeight =6270
+                        End
+                    End
+                End
+                Begin TextBox
+                    ColumnHidden = NotDefault
+                    OverlapFlags =85
+                    IMESentenceMode =3
+                    Left =2910
+                    Top =6360
+                    Width =1620
+                    Height =330
+                    ColumnWidth =1620
+                    TabIndex =8
+                    BorderColor =10921638
+                    ForeColor =4210752
+                    Name ="Expr1"
+                    ControlSource ="Expr1"
+                    GUID = Begin
+                        0xf40db7c489b1ac4a955128df927039cc
+                    End
+                    GridlineColor =10921638
+
+                    LayoutCachedLeft =2910
+                    LayoutCachedTop =6360
+                    LayoutCachedWidth =4530
+                    LayoutCachedHeight =6690
+                    Begin
+                        Begin Label
+                            OverlapFlags =85
+                            Left =360
+                            Top =6360
+                            Width =2460
+                            Height =330
+                            BorderColor =8355711
+                            ForeColor =8355711
+                            Name ="Expr1_Label"
+                            Caption ="Expr1"
+                            GUID = Begin
+                                0xde9c666d7261874fa428b0ddb29da680
+                            End
+                            GridlineColor =10921638
+                            LayoutCachedLeft =360
+                            LayoutCachedTop =6360
+                            LayoutCachedWidth =2820
+                            LayoutCachedHeight =6690
+                        End
+                    End
+                End
+                Begin TextBox
+                    ColumnHidden = NotDefault
+                    OverlapFlags =85
+                    IMESentenceMode =3
+                    Left =2160
+                    Top =6780
+                    Height =315
+                    TabIndex =9
+                    BorderColor =10921638
+                    ForeColor =4210752
+                    Name ="Expr2"
+                    ControlSource ="Expr2"
+                    GUID = Begin
+                        0xd032c5c0de029c40b7434fb4edb02a38
+                    End
+                    GridlineColor =10921638
+
+                    LayoutCachedLeft =2160
+                    LayoutCachedTop =6780
+                    LayoutCachedWidth =3600
+                    LayoutCachedHeight =7095
+                    Begin
+                        Begin Label
+                            OverlapFlags =85
+                            Left =360
+                            Top =6780
+                            Width =585
+                            Height =315
+                            BorderColor =8355711
+                            ForeColor =8355711
+                            Name ="Label18"
+                            Caption ="Expr2"
+                            GUID = Begin
+                                0x937edd5b58ed69438d09f50d7602f280
+                            End
+                            GridlineColor =10921638
+                            LayoutCachedLeft =360
+                            LayoutCachedTop =6780
+                            LayoutCachedWidth =945
+                            LayoutCachedHeight =7095
+                        End
+                    End
+                End
+                Begin TextBox
+                    ColumnHidden = NotDefault
+                    OverlapFlags =85
+                    IMESentenceMode =3
+                    Left =5640
+                    Top =6720
+                    Height =315
+                    TabIndex =10
+                    BorderColor =10921638
+                    ForeColor =4210752
+                    Name ="Expr3"
+                    ControlSource ="Expr3"
+                    GUID = Begin
+                        0x2456f52b2943c6419d5c6e76761e85be
+                    End
+                    GridlineColor =10921638
+
+                    LayoutCachedLeft =5640
+                    LayoutCachedTop =6720
+                    LayoutCachedWidth =7080
+                    LayoutCachedHeight =7035
+                    Begin
+                        Begin Label
+                            OverlapFlags =85
+                            Left =4740
+                            Top =6720
+                            Width =585
+                            Height =315
+                            BorderColor =8355711
+                            ForeColor =8355711
+                            Name ="Label19"
+                            Caption ="Expr3"
+                            GUID = Begin
+                                0xd59944d5ada81a48b2676fe64472f2c7
+                            End
+                            GridlineColor =10921638
+                            LayoutCachedLeft =4740
+                            LayoutCachedTop =6720
+                            LayoutCachedWidth =5325
+                            LayoutCachedHeight =7035
+                        End
+                    End
+                End
+            End
+        End
+        Begin FormFooter
+            Height =0
+            Name ="FormFooter"
+            GUID = Begin
+                0x6cf8c7dd70659341bde52d5e4f29f0a5
+            End
+            AutoHeight =1
+            AlternateBackThemeColorIndex =1
+            AlternateBackShade =95.0
+            BackThemeColorIndex =1
+        End
+    End
+End

@@ -1,0 +1,777 @@
+Version =20
+VersionRequired =20
+PublishOption =1
+Checksum =-866058116
+Begin Form
+    RecordSelectors = NotDefault
+    NavigationButtons = NotDefault
+    DividingLines = NotDefault
+    DefaultView =0
+    RecordLocks =2
+    PictureAlignment =2
+    DatasheetGridlinesBehavior =3
+    GridX =24
+    GridY =24
+    DatasheetFontHeight =11
+    ItemSuffix =34
+    Left =675
+    Top =255
+    Right =7875
+    Bottom =7440
+    DatasheetGridlinesColor =14806254
+    RecSrcDt = Begin
+        0x1117e27dab97e440
+    End
+    GUID = Begin
+        0xc79da7fe2dd99f4eb24a49be0ae253e6
+    End
+    Caption ="Resources"
+    DatasheetFontName ="Calibri"
+    AllowDatasheetView =0
+    AllowPivotTableView =0
+    AllowPivotChartView =0
+    AllowPivotChartView =0
+    FilterOnLoad =0
+    ShowPageMargins =0
+    DisplayOnSharePointSite =1
+    AllowLayoutView =0
+    DatasheetAlternateBackColor =15921906
+    DatasheetGridlinesColor12 =0
+    FitToScreen =1
+    DatasheetBackThemeColorIndex =1
+    BorderThemeColorIndex =3
+    ThemeFontIndex =1
+    ForeThemeColorIndex =0
+    AlternateBackThemeColorIndex =1
+    AlternateBackShade =95.0
+    NoSaveCTIWhenDisabled =1
+    Begin
+        Begin Label
+            BackStyle =0
+            FontSize =11
+            FontName ="Calibri"
+            ThemeFontIndex =1
+            BackThemeColorIndex =1
+            BorderThemeColorIndex =0
+            BorderTint =50.0
+            ForeThemeColorIndex =0
+            ForeTint =50.0
+            GridlineThemeColorIndex =1
+            GridlineShade =65.0
+        End
+        Begin Rectangle
+            SpecialEffect =3
+            BackStyle =0
+            BorderLineStyle =0
+            BackThemeColorIndex =1
+            BorderThemeColorIndex =1
+            BorderShade =65.0
+            GridlineThemeColorIndex =1
+            GridlineShade =65.0
+        End
+        Begin Image
+            BackStyle =0
+            OldBorderStyle =0
+            BorderLineStyle =0
+            SizeMode =3
+            PictureAlignment =2
+            BorderColor =16777215
+            GridlineColor =16777215
+            BackThemeColorIndex =1
+            BorderThemeColorIndex =1
+            BorderShade =65.0
+            GridlineThemeColorIndex =1
+            GridlineShade =65.0
+        End
+        Begin CommandButton
+            FontSize =11
+            FontWeight =400
+            FontName ="Calibri"
+            ForeThemeColorIndex =0
+            ForeTint =75.0
+            GridlineThemeColorIndex =1
+            GridlineShade =65.0
+            UseTheme =1
+            Shape =1
+            Gradient =12
+            BackThemeColorIndex =4
+            BackTint =60.0
+            BorderLineStyle =0
+            BorderColor =16777215
+            BorderThemeColorIndex =4
+            BorderTint =60.0
+            ThemeFontIndex =1
+            HoverThemeColorIndex =4
+            HoverTint =40.0
+            PressedThemeColorIndex =4
+            PressedShade =75.0
+            HoverForeThemeColorIndex =0
+            HoverForeTint =75.0
+            PressedForeThemeColorIndex =0
+            PressedForeTint =75.0
+        End
+        Begin OptionGroup
+            SpecialEffect =3
+            BorderLineStyle =0
+            BackThemeColorIndex =1
+            BorderThemeColorIndex =1
+            BorderShade =65.0
+            GridlineThemeColorIndex =1
+            GridlineShade =65.0
+        End
+        Begin Subform
+            BorderLineStyle =0
+            BorderThemeColorIndex =1
+            GridlineThemeColorIndex =1
+            GridlineShade =65.0
+            BorderShade =65.0
+            ShowPageHeaderAndPageFooter =1
+        End
+        Begin UnboundObjectFrame
+            SpecialEffect =2
+            OldBorderStyle =1
+            ThemeFontIndex =1
+            BackThemeColorIndex =1
+            BorderThemeColorIndex =1
+            BorderShade =65.0
+            ForeThemeColorIndex =2
+            ForeShade =50.0
+            GridlineThemeColorIndex =1
+            GridlineShade =65.0
+        End
+        Begin EmptyCell
+            Height =240
+            GridlineColor =12632256
+            GridlineThemeColorIndex =1
+            GridlineShade =65.0
+        End
+        Begin NavigationControl
+            BorderWidth =1
+            BorderLineStyle =0
+            BackThemeColorIndex =1
+            BorderThemeColorIndex =1
+            GridlineThemeColorIndex =1
+            GridlineShade =65.0
+        End
+        Begin NavigationButton
+            ForeColor =-2
+            GridlineThemeColorIndex =1
+            GridlineShade =65.0
+            HoverColor =-2
+            HoverThemeColorIndex =2
+            HoverTint =20.0
+            PressedColor =-2
+            PressedThemeColorIndex =2
+            PressedTint =60.0
+            HoverForeColor =-2
+            HoverForeThemeColorIndex =0
+            HoverForeTint =75.0
+            PressedForeColor =-2
+            PressedForeThemeColorIndex =0
+            PressedForeTint =75.0
+            BackColor =15790320
+            BackThemeColorIndex =1
+            OldBorderStyle =0
+            BorderLineStyle =0
+            BorderThemeColorIndex =3
+            BorderShade =90.0
+            ThemeFontIndex =1
+            FontName ="Calibri"
+            FontWeight =400
+            FontSize =11
+            ForeThemeColorIndex =0
+            ForeTint =75.0
+        End
+        Begin Section
+            Height =7200
+            BackColor =16711680
+            Name ="Detail"
+            GUID = Begin
+                0xe980965fb5b9b04d99959e0fd56aaa89
+            End
+            AlternateBackColor =15921906
+            AlternateBackThemeColorIndex =1
+            AlternateBackShade =95.0
+            Begin
+                Begin Image
+                    PictureType =1
+                    Left =120
+                    Top =120
+                    Width =1200
+                    Height =1200
+                    BorderColor =10921638
+                    Name ="Image10"
+                    Picture ="\\\\cenfile1\\police$\\CENTRAL REGION DRIVE\\Graphics\\NYSPP Logos\\Logo.png"
+                    GUID = Begin
+                        0x50540bdc9717bd4294687867fd63dfb2
+                    End
+                    GridlineColor =10921638
+
+                    LayoutCachedLeft =120
+                    LayoutCachedTop =120
+                    LayoutCachedWidth =1320
+                    LayoutCachedHeight =1320
+                    TabIndex =12
+                End
+                Begin Image
+                    PictureType =1
+                    Left =5880
+                    Top =120
+                    Width =1200
+                    Height =1200
+                    BorderColor =10921638
+                    Name ="Image11"
+                    Picture ="\\\\cenfile1\\police$\\CENTRAL REGION DRIVE\\Graphics\\NYSPP Logos\\Logo.png"
+                    GUID = Begin
+                        0x1a9b1a481e8a2f4c906adaeeb6b28e92
+                    End
+                    GridlineColor =10921638
+
+                    LayoutCachedLeft =5880
+                    LayoutCachedTop =120
+                    LayoutCachedWidth =7080
+                    LayoutCachedHeight =1320
+                    TabIndex =13
+                End
+                Begin Label
+                    OverlapFlags =85
+                    TextAlign =2
+                    Left =1980
+                    Top =180
+                    Width =3240
+                    Height =420
+                    FontSize =18
+                    FontWeight =900
+                    BorderColor =8355711
+                    ForeColor =16777215
+                    Name ="Label12"
+                    Caption ="Additional Resources"
+                    GUID = Begin
+                        0x2658e191e776404f8da7a8e964c2e13a
+                    End
+                    GridlineColor =10921638
+                    LayoutCachedLeft =1980
+                    LayoutCachedTop =180
+                    LayoutCachedWidth =5220
+                    LayoutCachedHeight =600
+                    ForeThemeColorIndex =-1
+                    ForeTint =100.0
+                End
+                Begin Label
+                    FontUnderline = NotDefault
+                    BackStyle =1
+                    OverlapFlags =85
+                    TextAlign =2
+                    Left =3780
+                    Top =720
+                    Width =1800
+                    Height =300
+                    FontWeight =700
+                    BackColor =15921906
+                    BorderColor =8355711
+                    ForeColor =4144959
+                    Name ="Label14"
+                    Caption ="Online References"
+                    OnClick ="[Event Procedure]"
+                    ControlTipText ="Open Web References (hold shift for Chrome)"
+                    GUID = Begin
+                        0x8194931bfbda9f47910eb701983add3d
+                    End
+                    GridlineColor =10921638
+                    LayoutCachedLeft =3780
+                    LayoutCachedTop =720
+                    LayoutCachedWidth =5580
+                    LayoutCachedHeight =1020
+                    BackShade =95.0
+                    ForeThemeColorIndex =-1
+                    ForeTint =100.0
+                End
+                Begin Label
+                    FontUnderline = NotDefault
+                    BackStyle =1
+                    OverlapFlags =85
+                    TextAlign =2
+                    Left =1620
+                    Top =720
+                    Width =780
+                    Height =300
+                    FontWeight =700
+                    BackColor =15921906
+                    BorderColor =8355711
+                    ForeColor =4144959
+                    Name ="Label15"
+                    Caption ="PARKS"
+                    OnClick ="[Event Procedure]"
+                    ControlTipText ="Open Parks (hold shift for Chrome)"
+                    GUID = Begin
+                        0xa9db00a154cc1248a78a5c747ed6f0f4
+                    End
+                    GridlineColor =10921638
+                    LayoutCachedLeft =1620
+                    LayoutCachedTop =720
+                    LayoutCachedWidth =2400
+                    LayoutCachedHeight =1020
+                    BackShade =95.0
+                    ForeThemeColorIndex =-1
+                    ForeTint =100.0
+                End
+                Begin CommandButton
+                    OverlapFlags =85
+                    Left =720
+                    Top =1500
+                    Width =1320
+                    ForeColor =4210752
+                    Name ="Command16"
+                    Caption ="Shift Sheet"
+                    OnClick ="[Event Procedure]"
+                    GUID = Begin
+                        0x3b6edd4c84f29c438532986dd88658da
+                    End
+                    GridlineColor =10921638
+
+                    LayoutCachedLeft =720
+                    LayoutCachedTop =1500
+                    LayoutCachedWidth =2040
+                    LayoutCachedHeight =1860
+                    BackColor =14136213
+                    BorderColor =14136213
+                    HoverColor =15060409
+                    PressedColor =9592887
+                    HoverForeColor =4210752
+                    PressedForeColor =4210752
+                    WebImagePaddingLeft =2
+                    WebImagePaddingTop =2
+                    WebImagePaddingRight =1
+                    WebImagePaddingBottom =1
+                End
+                Begin CommandButton
+                    OverlapFlags =85
+                    Left =720
+                    Top =1980
+                    Width =1320
+                    TabIndex =1
+                    ForeColor =4210752
+                    Name ="Command17"
+                    Caption ="Hazmat 2012"
+                    OnClick ="[Event Procedure]"
+                    GUID = Begin
+                        0x47cc5eb06c88f443abdd1b392b886d66
+                    End
+                    GridlineColor =10921638
+
+                    LayoutCachedLeft =720
+                    LayoutCachedTop =1980
+                    LayoutCachedWidth =2040
+                    LayoutCachedHeight =2340
+                    BackColor =14136213
+                    BorderColor =14136213
+                    HoverColor =15060409
+                    PressedColor =9592887
+                    HoverForeColor =4210752
+                    PressedForeColor =4210752
+                    WebImagePaddingLeft =2
+                    WebImagePaddingTop =2
+                    WebImagePaddingRight =1
+                    WebImagePaddingBottom =1
+                End
+                Begin Rectangle
+                    OverlapFlags =93
+                    Left =4380
+                    Top =1680
+                    Width =2460
+                    Height =600
+                    BorderColor =10921638
+                    Name ="Box20"
+                    GUID = Begin
+                        0x4caf2d48ea6ce14f92f09765dfd4c3a4
+                    End
+                    GridlineColor =10921638
+                    LayoutCachedLeft =4380
+                    LayoutCachedTop =1680
+                    LayoutCachedWidth =6840
+                    LayoutCachedHeight =2280
+                End
+                Begin Label
+                    BackStyle =1
+                    OverlapFlags =215
+                    Left =4440
+                    Top =1500
+                    Width =1305
+                    Height =285
+                    BackColor =16711680
+                    BorderColor =8355711
+                    ForeColor =16777215
+                    Name ="Label21"
+                    Caption ="Guide Covers"
+                    GUID = Begin
+                        0xc97c7d8a69afec43830aee14ca6ad730
+                    End
+                    GridlineColor =10921638
+                    LayoutCachedLeft =4440
+                    LayoutCachedTop =1500
+                    LayoutCachedWidth =5745
+                    LayoutCachedHeight =1785
+                    BackThemeColorIndex =-1
+                    ForeThemeColorIndex =-1
+                    ForeTint =100.0
+                End
+                Begin CommandButton
+                    OverlapFlags =215
+                    Left =4500
+                    Top =1860
+                    Width =660
+                    Height =300
+                    TabIndex =2
+                    ForeColor =4210752
+                    Name ="Command22"
+                    Caption ="CEN"
+                    OnClick ="[Event Procedure]"
+                    GUID = Begin
+                        0x7eefe3b90b5cfa47a466fa1cd6e374da
+                    End
+                    GridlineColor =10921638
+
+                    LayoutCachedLeft =4500
+                    LayoutCachedTop =1860
+                    LayoutCachedWidth =5160
+                    LayoutCachedHeight =2160
+                    BackColor =14136213
+                    BorderColor =14136213
+                    HoverColor =15060409
+                    PressedColor =9592887
+                    HoverForeColor =4210752
+                    PressedForeColor =4210752
+                    WebImagePaddingLeft =2
+                    WebImagePaddingTop =2
+                    WebImagePaddingRight =1
+                    WebImagePaddingBottom =1
+                    Overlaps =1
+                End
+                Begin CommandButton
+                    OverlapFlags =215
+                    Left =5280
+                    Top =1860
+                    Width =660
+                    Height =300
+                    TabIndex =3
+                    ForeColor =4210752
+                    Name ="Command23"
+                    Caption ="TI"
+                    OnClick ="[Event Procedure]"
+                    GUID = Begin
+                        0xae018923b06f96418d0300f5826bee8b
+                    End
+                    GridlineColor =10921638
+
+                    LayoutCachedLeft =5280
+                    LayoutCachedTop =1860
+                    LayoutCachedWidth =5940
+                    LayoutCachedHeight =2160
+                    BackColor =14136213
+                    BorderColor =14136213
+                    HoverColor =15060409
+                    PressedColor =9592887
+                    HoverForeColor =4210752
+                    PressedForeColor =4210752
+                    WebImagePaddingLeft =2
+                    WebImagePaddingTop =2
+                    WebImagePaddingRight =1
+                    WebImagePaddingBottom =1
+                    Overlaps =1
+                End
+                Begin CommandButton
+                    OverlapFlags =215
+                    Left =6060
+                    Top =1860
+                    Width =660
+                    Height =300
+                    TabIndex =4
+                    ForeColor =4210752
+                    Name ="Command24"
+                    Caption ="FL"
+                    OnClick ="[Event Procedure]"
+                    GUID = Begin
+                        0x1f5043912d24be439c20853b89ffecd0
+                    End
+                    GridlineColor =10921638
+
+                    LayoutCachedLeft =6060
+                    LayoutCachedTop =1860
+                    LayoutCachedWidth =6720
+                    LayoutCachedHeight =2160
+                    BackColor =14136213
+                    BorderColor =14136213
+                    HoverColor =15060409
+                    PressedColor =9592887
+                    HoverForeColor =4210752
+                    PressedForeColor =4210752
+                    WebImagePaddingLeft =2
+                    WebImagePaddingTop =2
+                    WebImagePaddingRight =1
+                    WebImagePaddingBottom =1
+                    Overlaps =1
+                End
+                Begin Rectangle
+                    OverlapFlags =93
+                    Left =4380
+                    Top =2640
+                    Width =2460
+                    Height =1020
+                    BorderColor =10921638
+                    Name ="Box25"
+                    GUID = Begin
+                        0x7dabbff5b13a854199433d5dc7f35dd3
+                    End
+                    GridlineColor =10921638
+                    LayoutCachedLeft =4380
+                    LayoutCachedTop =2640
+                    LayoutCachedWidth =6840
+                    LayoutCachedHeight =3660
+                End
+                Begin Label
+                    BackStyle =1
+                    OverlapFlags =215
+                    Left =4440
+                    Top =2460
+                    Width =1710
+                    Height =285
+                    BackColor =16711680
+                    BorderColor =8355711
+                    ForeColor =16777215
+                    Name ="Label26"
+                    Caption ="Member Contacts"
+                    GUID = Begin
+                        0x470d622baf6e2b4a96bc3a40ece00d3a
+                    End
+                    GridlineColor =10921638
+                    LayoutCachedLeft =4440
+                    LayoutCachedTop =2460
+                    LayoutCachedWidth =6150
+                    LayoutCachedHeight =2745
+                    BackThemeColorIndex =-1
+                    ForeThemeColorIndex =-1
+                    ForeTint =100.0
+                End
+                Begin CommandButton
+                    OverlapFlags =215
+                    Left =4500
+                    Top =2820
+                    Width =660
+                    Height =300
+                    TabIndex =5
+                    ForeColor =4210752
+                    Name ="Command27"
+                    Caption ="CEN"
+                    OnClick ="[Event Procedure]"
+                    GUID = Begin
+                        0x018b430864904d41a115816f50b98d38
+                    End
+                    GridlineColor =10921638
+
+                    LayoutCachedLeft =4500
+                    LayoutCachedTop =2820
+                    LayoutCachedWidth =5160
+                    LayoutCachedHeight =3120
+                    BackColor =14136213
+                    BorderColor =14136213
+                    HoverColor =15060409
+                    PressedColor =9592887
+                    HoverForeColor =4210752
+                    PressedForeColor =4210752
+                    WebImagePaddingLeft =2
+                    WebImagePaddingTop =2
+                    WebImagePaddingRight =1
+                    WebImagePaddingBottom =1
+                    Overlaps =1
+                End
+                Begin CommandButton
+                    OverlapFlags =215
+                    Left =5280
+                    Top =2820
+                    Width =660
+                    Height =300
+                    TabIndex =6
+                    ForeColor =4210752
+                    Name ="Command28"
+                    Caption ="TI"
+                    OnClick ="[Event Procedure]"
+                    GUID = Begin
+                        0x1acc1a10bfb7334d8bb4873151283b2c
+                    End
+                    GridlineColor =10921638
+
+                    LayoutCachedLeft =5280
+                    LayoutCachedTop =2820
+                    LayoutCachedWidth =5940
+                    LayoutCachedHeight =3120
+                    BackColor =14136213
+                    BorderColor =14136213
+                    HoverColor =15060409
+                    PressedColor =9592887
+                    HoverForeColor =4210752
+                    PressedForeColor =4210752
+                    WebImagePaddingLeft =2
+                    WebImagePaddingTop =2
+                    WebImagePaddingRight =1
+                    WebImagePaddingBottom =1
+                    Overlaps =1
+                End
+                Begin CommandButton
+                    OverlapFlags =215
+                    Left =6060
+                    Top =2820
+                    Width =660
+                    Height =300
+                    TabIndex =7
+                    ForeColor =4210752
+                    Name ="Command29"
+                    Caption ="FL"
+                    OnClick ="[Event Procedure]"
+                    GUID = Begin
+                        0x8d10ab3a626026438093a0c91ce06a10
+                    End
+                    GridlineColor =10921638
+
+                    LayoutCachedLeft =6060
+                    LayoutCachedTop =2820
+                    LayoutCachedWidth =6720
+                    LayoutCachedHeight =3120
+                    BackColor =14136213
+                    BorderColor =14136213
+                    HoverColor =15060409
+                    PressedColor =9592887
+                    HoverForeColor =4210752
+                    PressedForeColor =4210752
+                    WebImagePaddingLeft =2
+                    WebImagePaddingTop =2
+                    WebImagePaddingRight =1
+                    WebImagePaddingBottom =1
+                    Overlaps =1
+                End
+                Begin CommandButton
+                    OverlapFlags =215
+                    Left =4500
+                    Top =3240
+                    Width =2220
+                    Height =300
+                    TabIndex =8
+                    ForeColor =4210752
+                    Name ="Command30"
+                    Caption ="Combined Phones"
+                    OnClick ="[Event Procedure]"
+                    GUID = Begin
+                        0x32942ce7e28f21488a0ed76cd2b1907f
+                    End
+                    GridlineColor =10921638
+
+                    LayoutCachedLeft =4500
+                    LayoutCachedTop =3240
+                    LayoutCachedWidth =6720
+                    LayoutCachedHeight =3540
+                    BackColor =14136213
+                    BorderColor =14136213
+                    HoverColor =15060409
+                    PressedColor =9592887
+                    HoverForeColor =4210752
+                    PressedForeColor =4210752
+                    WebImagePaddingLeft =2
+                    WebImagePaddingTop =2
+                    WebImagePaddingRight =1
+                    WebImagePaddingBottom =1
+                    Overlaps =1
+                End
+                Begin CommandButton
+                    OverlapFlags =85
+                    Left =720
+                    Top =2460
+                    Width =1320
+                    TabIndex =9
+                    ForeColor =4210752
+                    Name ="Command31"
+                    Caption ="Facility Maps"
+                    OnClick ="[Event Procedure]"
+                    GUID = Begin
+                        0xa4c5a914aa4ac04da298e86555832e3e
+                    End
+                    GridlineColor =10921638
+
+                    LayoutCachedLeft =720
+                    LayoutCachedTop =2460
+                    LayoutCachedWidth =2040
+                    LayoutCachedHeight =2820
+                    BackColor =14136213
+                    BorderColor =14136213
+                    HoverColor =15060409
+                    PressedColor =9592887
+                    HoverForeColor =4210752
+                    PressedForeColor =4210752
+                    WebImagePaddingLeft =2
+                    WebImagePaddingTop =2
+                    WebImagePaddingRight =1
+                    WebImagePaddingBottom =1
+                End
+                Begin CommandButton
+                    OverlapFlags =85
+                    Left =4500
+                    Top =3780
+                    Width =2220
+                    Height =300
+                    TabIndex =10
+                    ForeColor =4210752
+                    Name ="Command32"
+                    Caption ="Agency Directory"
+                    OnClick ="[Event Procedure]"
+                    GUID = Begin
+                        0x1460930f5d10de4d89da25b5ce00f499
+                    End
+                    GridlineColor =10921638
+
+                    LayoutCachedLeft =4500
+                    LayoutCachedTop =3780
+                    LayoutCachedWidth =6720
+                    LayoutCachedHeight =4080
+                    BackColor =14136213
+                    BorderColor =14136213
+                    HoverColor =15060409
+                    PressedColor =9592887
+                    HoverForeColor =4210752
+                    PressedForeColor =4210752
+                    WebImagePaddingLeft =2
+                    WebImagePaddingTop =2
+                    WebImagePaddingRight =1
+                    WebImagePaddingBottom =1
+                End
+                Begin CommandButton
+                    OverlapFlags =85
+                    Left =720
+                    Top =2940
+                    Width =1320
+                    TabIndex =11
+                    ForeColor =4210752
+                    Name ="Command33"
+                    Caption ="Jeff Co ME"
+                    OnClick ="[Event Procedure]"
+                    GUID = Begin
+                        0xdbb8f4884b290944aa03431aea574d1b
+                    End
+                    GridlineColor =10921638
+
+                    LayoutCachedLeft =720
+                    LayoutCachedTop =2940
+                    LayoutCachedWidth =2040
+                    LayoutCachedHeight =3300
+                    BackColor =14136213
+                    BorderColor =14136213
+                    HoverColor =15060409
+                    PressedColor =9592887
+                    HoverForeColor =4210752
+                    PressedForeColor =4210752
+                    WebImagePaddingLeft =2
+                    WebImagePaddingTop =2
+                    WebImagePaddingRight =1
+                    WebImagePaddingBottom =1
+                End
+            End
+        End
+    End
+End

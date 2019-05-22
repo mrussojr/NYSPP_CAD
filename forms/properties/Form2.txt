@@ -1,0 +1,113 @@
+Version =20
+VersionRequired =20
+PublishOption =1
+Checksum =1173269104
+Begin Form
+    DividingLines = NotDefault
+    AllowDesignChanges = NotDefault
+    DefaultView =0
+    RecordLocks =2
+    PictureAlignment =2
+    DatasheetGridlinesBehavior =3
+    GridX =24
+    GridY =24
+    Width =2700
+    DatasheetFontHeight =11
+    ItemSuffix =1
+    Top =600
+    Right =3225
+    Bottom =3465
+    DatasheetGridlinesColor =14806254
+    RecSrcDt = Begin
+        0x5b4184169699e440
+    End
+    GUID = Begin
+        0x5869d8826be0604ba0baa6b805800a4d
+    End
+    DatasheetFontName ="Calibri"
+    FilterOnLoad =0
+    ShowPageMargins =0
+    DisplayOnSharePointSite =1
+    DatasheetAlternateBackColor =15921906
+    DatasheetGridlinesColor12 =0
+    FitToScreen =1
+    DatasheetBackThemeColorIndex =1
+    BorderThemeColorIndex =3
+    ThemeFontIndex =1
+    ForeThemeColorIndex =0
+    AlternateBackThemeColorIndex =1
+    AlternateBackShade =95.0
+    NoSaveCTIWhenDisabled =1
+    Begin
+        Begin CommandButton
+            FontSize =11
+            FontWeight =400
+            FontName ="Calibri"
+            ForeThemeColorIndex =0
+            ForeTint =75.0
+            GridlineThemeColorIndex =1
+            GridlineShade =65.0
+            UseTheme =1
+            Shape =1
+            Gradient =12
+            BackThemeColorIndex =4
+            BackTint =60.0
+            BorderLineStyle =0
+            BorderColor =16777215
+            BorderThemeColorIndex =4
+            BorderTint =60.0
+            ThemeFontIndex =1
+            HoverThemeColorIndex =4
+            HoverTint =40.0
+            PressedThemeColorIndex =4
+            PressedShade =75.0
+            HoverForeThemeColorIndex =0
+            HoverForeTint =75.0
+            PressedForeThemeColorIndex =0
+            PressedForeTint =75.0
+        End
+        Begin Section
+            Height =2280
+            Name ="Detail"
+            GUID = Begin
+                0x903b85aa039d2e46a3ddf6c5e00ae2e6
+            End
+            AlternateBackColor =15921906
+            AlternateBackThemeColorIndex =1
+            AlternateBackShade =95.0
+            BackThemeColorIndex =1
+            Begin
+                Begin CommandButton
+                    OverlapFlags =85
+                    Left =360
+                    Top =660
+                    Width =1860
+                    Height =840
+                    ForeColor =4210752
+                    Name ="Command0"
+                    Caption ="Command0"
+                    OnClick ="[Event Procedure]"
+                    GUID = Begin
+                        0x6acaadbbe71d9542a656e87154e83ec7
+                    End
+                    GridlineColor =10921638
+
+                    LayoutCachedLeft =360
+                    LayoutCachedTop =660
+                    LayoutCachedWidth =2220
+                    LayoutCachedHeight =1500
+                    BackColor =14136213
+                    BorderColor =14136213
+                    HoverColor =15060409
+                    PressedColor =9592887
+                    HoverForeColor =4210752
+                    PressedForeColor =4210752
+                    WebImagePaddingLeft =2
+                    WebImagePaddingTop =2
+                    WebImagePaddingRight =1
+                    WebImagePaddingBottom =1
+                End
+            End
+        End
+    End
+End
