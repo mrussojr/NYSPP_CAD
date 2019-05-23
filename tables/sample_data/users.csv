@@ -1,0 +1,11 @@
+ID,DispatchID,Username,EJusticeUsername,Password,Salt,Active,Authorized,Admin,Email,EJusticeLinkId,ORI,LoggedInEJustice
+1,26,russom,MRusso7,fender,,1,1,1,russom@nyspp.gov,,NY0339000,1
+4,20,bolenm,bolenm,111111,,0,1,0,bolenm@nyspp.gov,,NY0339000,0
+5,29,williamli,williamsl2,Boston27,,1,1,0,williamli@nyspp.gov,,NY0339000,1
+6,22,rosek,rosek3,Mybabies1,,1,1,0,rosek@nyspp.gov,,NY0339000,1
+7,12,westovel,WestoverL,comtech12,,1,1,0,westovel@nyspp.gov,,NY0339000,1
+8,18,bachmanc,cbachman1,KEEfee1114,,1,1,0,bachmanc@nyspp.gov,,NY0339000,1
+9,30,folandr,N01854912,password,,1,1,1,folandr@nyspp.gov,,NY0339000,1
+10,524,dadonnam,MDaddona1,park1,,1,1,0,dadonnam@nyspp.gov,,NY0339000,0
+11,31,williamja,,central,,1,1,0,williamja@nyspp.gov,,NY0339000,0
+21,12345,test,tester,,,1,0,0,test@nyspp.gov,,NY0339000,0
